@@ -1,0 +1,25 @@
+id,entidade,chave,chave_sem_acento,tipos,classe,tipos_originais,num_palavras,chave_curta
+272582,Bolo de cenoura,bolo de cenoura,bolo de cenoura,Comida,Comida e bebida,Comida,3,false
+269428,Brasil,brasil,brasil,Animal,Animal,Animal,1,false
+281296,Carnaval,carnaval,carnaval,Evento,Evento,Evento,1,false
+305247,Casa,casa,casa,Local > Imóvel,Local,Local > Imóvel,1,false
+270968,Cerveja,cerveja,cerveja,Bebida,Comida e bebida,Bebida,1,false
+300177,Copacabana,copacabana,copacabana,Local > Bairro,Local,Local > Bairro,1,false
+406554,Corinthians,corinthians,corinthians,Esporte,Esporte,Sport,1,false
+302841,Curitiba,curitiba,curitiba,Local > Cidade,Local,Local > City,1,false
+277743,Dengue,dengue,dengue,Doença,Saúde,Doença,1,false
+305596,Detran,detran,detran,Local > Orgão,Local,Local > Orgão,1,false
+277741,Diabetes,diabetes,diabetes,Doença,Saúde,Doença,1,false
+278690,ENEM,enem,enem,Educação,Educação,Educação,1,false
+406553,Flamengo,flamengo,flamengo,Esporte,Esporte,Sport,1,false
+410838,Ford Fiesta,ford fiesta,ford fiesta,Veículo > Carro,Veículo,Veículo > Carro,2,false
+409466,Hotel,hotel,hotel,Turismo,Local,turismo,1,false
+344691,Iphone,iphone,iphone,Produto > Celulares e Smartphones,Produto,Produto > Celulares e Smartphones,1,false
+277148,IPVA,ipva,ipva,Documento,Outro,Documento,1,false
+318759,Love,love,love,Pessoa,Pessoa,Person,1,false
+286991,Minecraft,minecraft,minecraft,Jogo,Jogo,Jogo,1,false
+328935,Neymar,neymar,neymar,Pessoa > Jogador de futebol,Pessoa,Person > SoccerPlayer,1,false
+877,pão de queijo,pão de queijo,pao de queijo,Comida,Comida e bebida,Comida,3,false
+301268,Salvador,salvador,salvador,Local > Cidade,Local,Local > City,1,false
+312140,Samba,samba,samba,Música,Música,Music,1,false
+300305,São Paulo,são paulo,sao paulo,Local > Cidade,Local,Local > Cidade,2,false

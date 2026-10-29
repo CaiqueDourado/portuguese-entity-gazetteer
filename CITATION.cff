@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Portuguese Entity Gazetteer: 307 thousand Portuguese entities with their types"
+authors:
+  - family-names: Dourado
+    given-names: Caique
+version: 1.0.0
+date-released: 2026-10-29
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/CaiqueDourado/portuguese-entity-gazetteer"
+url: "https://www.kaggle.com/datasets/caiquedourado/portuguese-entity-gazetteer"
+keywords:
+  - portuguese
+  - gazetteer
+  - named-entities
+  - brazil
+  - nlp
+  - search
+  - seo

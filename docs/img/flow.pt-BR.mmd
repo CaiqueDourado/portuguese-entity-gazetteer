@@ -1,0 +1,9 @@
+flowchart LR
+  W["Wikipédia PT / DBpedia<br/>títulos e tipos"] --> P[("nlp.dbo.palavras_replace<br/>2,3 mi linhas, 8 idiomas")]
+  E["e-commerce brasileiro<br/>títulos e departamentos"] --> P
+  M["listas digitadas à mão<br/>comidas, doenças, direito, marcas…"] --> P
+  P --> C["curadoria manual<br/>manter · trocar tipo · Remover"]
+  C --> N[("palavras_replace_normalizado<br/>412.204 chaves")]
+  N --> B["build_entidades.py (DuckDB)<br/>limpa tipos, classes, tira lixo"]
+  B --> O["307.397 entidades<br/>entidades.parquet · gazetteer-pt.tsv"]
+  O --> S["search-pattern-miner<br/>padrões com [tipo]"]

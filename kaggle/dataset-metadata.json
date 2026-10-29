@@ -1,0 +1,162 @@
+{
+ "title": "Dicionário de Entidades do Português: 307 mil",
+ "subtitle": "Portuguese gazetteer: places, people, works and products with their types",
+ "id": "caiquedourado/portuguese-entity-gazetteer",
+ "licenses": [
+  {
+   "name": "Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)"
+  }
+ ],
+ "keywords": [
+  "languages",
+  "nlp",
+  "text",
+  "brazil"
+ ],
+ "description": "**Portuguese Entity Gazetteer**: **307,397 entities in Portuguese** with their types: places, people, films, songs, TV shows, products, brands, foods, diseases, laws, animals, plants… Each entity has **one or more of 747 types** (*Salvador* is `Local > Cidade`, *Neymar* is `Pessoa > Jogador de futebol`) and **one of 26 broad classes**. It also comes as a ready-to-use gazetteer for [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner), which turns searches into templates by replacing entities with their type: *hotel barato em salvador* → `[turismo] barat [cidade]`.\n\nIt is the entity dictionary the author built and curated by hand to find patterns in millions of Google searches, the patterns behind [SuperNichos.com](https://supernichos.com) and the [google-keywords-dataset](https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset).\n\n![Portuguese Entity Gazetteer](https://raw.githubusercontent.com/CaiqueDourado/portuguese-entity-gazetteer/main/docs/img/cover.png)\n\n## How a search uses it\n\n![One search in JSON](https://raw.githubusercontent.com/CaiqueDourado/portuguese-entity-gazetteer/main/docs/img/busca-json.png)\n\nThe entities of *hotel barato em salvador*, looked up whole-word with the longest key first, and the patterns search-pattern-miner makes from them: one pattern per type, so `Local > Cidade` gives both `[local]` and `[cidade]`.\n\n## Files\n\n- `entidades.parquet` / `entidades.csv` (307,397 rows): one entity per row: `entidade`, lookup keys `chave` (lower case) and `chave_sem_acento`, `tipos` (one or more, separated by ` > `; several types, not a hierarchy), `classe` (one of 26), `tipos_originais` (before cleaning), `num_palavras`, `chave_curta` (key of up to 3 characters).\n- `tipos.csv` (747 rows): every type with its class, how many entities have it and the source spellings merged into it.\n- `gazetteer-pt.tsv` (307,397 lines): `entidade<TAB>tipos`, the format search-pattern-miner reads.\n- `stats.json`: every count of the build.\n\n## The site this comes from\n\n![SuperNichos.com](https://raw.githubusercontent.com/CaiqueDourado/portuguese-entity-gazetteer/main/docs/img/supernichos.com_screenshot.png)\n\n[SuperNichos.com](https://supernichos.com) (2023–) sells access to millions of Google searches grouped into patterns, to find niches for new sites. Three of its algorithms first replace the entities of each search with their type, so *apartamentos para alugar em curitiba* becomes `[imovel] par [local]`; 749,693 of the published patterns carry at least one entity. This dataset is the dictionary they used, cleaned.\n\n## What the data shows\n\n![Entities per class](https://raw.githubusercontent.com/CaiqueDourado/portuguese-entity-gazetteer/main/docs/img/classes.png)\n\nProducts, places and people are 60%: 70,400 product names, 63,822 places and 51,921 people (by type, 10,179 cities, 5,094 neighbourhoods, 12,995 artists, 3,527 footballers, 2,896 politicians). `classe` comes from the first type that has one, so most books are class *Produto* (`Produto > Livro`). The source had 775 types mixing English DBpedia names and Portuguese, case and plural variants; now 747.\n\n## How it was made\n\n![How it was made](https://raw.githubusercontent.com/CaiqueDourado/portuguese-entity-gazetteer/main/docs/img/flow.png)\n\n- **Sources**: titles and types of the Portuguese Wikipedia through DBpedia, product titles and department names of Brazilian online stores, and lists typed by the author (foods, diseases, law, religion, brands).\n- **Curation**: the author reviewed the entities in an internal tool (keep, change type, *Remover*). This dataset starts from the curated table (412,204 keys).\n- **Build** ([scripts/build_entidades.py](https://github.com/CaiqueDourado/portuguese-entity-gazetteer/blob/main/scripts/build_entidades.py)): dropped 99,078 keys marked *Remover*, 4,833 product titles cut after a connector (*Adaptador Hdmi Para*), 421 Wikipedia list pages, 213 never-typed keys, 133 keys of 1–2 characters (the 27 state codes kept), 52 number-only keys (years kept), 28 institutions typed as a person, food or plant, 2 keys without letters; merged 47 case duplicates. Types cleaned (English names translated, case and plural merged) and mapped by hand to 26 classes.\n\n## Limits\n\n- Common words as entities: *brasil* is an `Animal`, *casa* is `Local > Imóvel`, *love* is a `Pessoa`. Check the type before trusting a single-word match.\n- Wrong labels remain in the long tail (*bandeira de blumenau* as *Comida*).\n- Not only Portuguese: film, song and band names are often in English; places from all over the world.\n- No disambiguation: one row per key.\n- People come from Wikipedia and DBpedia titles; removal requests are welcome on GitHub.\n\n## License and links\n\nData: CC BY-SA 4.0 (contains information from Wikipedia and DBpedia, CC BY-SA). Code: MIT. Code, data dictionary, sample and notebook: [github.com/CaiqueDourado/portuguese-entity-gazetteer](https://github.com/CaiqueDourado/portuguese-entity-gazetteer). Related: [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner), [google-keywords-dataset](https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset), [dicionario-portugues](https://www.kaggle.com/datasets/caiquedourado/dicionario-portugues).\n",
+ "isPrivate": false,
+ "resources": [
+  {
+   "path": "entidades.parquet",
+   "description": "All 307,397 entities, one per row.",
+   "schema": {
+    "fields": [
+     {
+      "name": "id",
+      "type": "integer",
+      "description": "Id of the entity in the source table (nlp.dbo.palavras_replace_normalizado)"
+     },
+     {
+      "name": "entidade",
+      "type": "string",
+      "description": "The entity as written in the source, outer and double spaces removed"
+     },
+     {
+      "name": "chave",
+      "type": "string",
+      "description": "Lookup key: the entity in lower case"
+     },
+     {
+      "name": "chave_sem_acento",
+      "type": "string",
+      "description": "The key without accents"
+     },
+     {
+      "name": "tipos",
+      "type": "string",
+      "description": "One or more types separated by ' > ' (several types, not a hierarchy): 'Local > Cidade'"
+     },
+     {
+      "name": "classe",
+      "type": "string",
+      "description": "One of 26 broad classes, from the first type that has one (Pessoa, Local, Produto…)"
+     },
+     {
+      "name": "tipos_originais",
+      "type": "string",
+      "description": "The types as they were in the source, before cleaning (English DBpedia names, case variants)"
+     },
+     {
+      "name": "num_palavras",
+      "type": "integer",
+      "description": "Number of words in the key"
+     },
+     {
+      "name": "chave_curta",
+      "type": "boolean",
+      "description": "Key of up to 3 characters (acronyms, short names): match these whole-word and case-sensitive"
+     }
+    ]
+   }
+  },
+  {
+   "path": "entidades.csv",
+   "description": "The same table as CSV.",
+   "schema": {
+    "fields": [
+     {
+      "name": "id",
+      "type": "integer",
+      "description": "Id of the entity in the source table (nlp.dbo.palavras_replace_normalizado)"
+     },
+     {
+      "name": "entidade",
+      "type": "string",
+      "description": "The entity as written in the source, outer and double spaces removed"
+     },
+     {
+      "name": "chave",
+      "type": "string",
+      "description": "Lookup key: the entity in lower case"
+     },
+     {
+      "name": "chave_sem_acento",
+      "type": "string",
+      "description": "The key without accents"
+     },
+     {
+      "name": "tipos",
+      "type": "string",
+      "description": "One or more types separated by ' > ' (several types, not a hierarchy): 'Local > Cidade'"
+     },
+     {
+      "name": "classe",
+      "type": "string",
+      "description": "One of 26 broad classes, from the first type that has one (Pessoa, Local, Produto…)"
+     },
+     {
+      "name": "tipos_originais",
+      "type": "string",
+      "description": "The types as they were in the source, before cleaning (English DBpedia names, case variants)"
+     },
+     {
+      "name": "num_palavras",
+      "type": "integer",
+      "description": "Number of words in the key"
+     },
+     {
+      "name": "chave_curta",
+      "type": "boolean",
+      "description": "Key of up to 3 characters (acronyms, short names): match these whole-word and case-sensitive"
+     }
+    ]
+   }
+  },
+  {
+   "path": "tipos.csv",
+   "description": "Every clean type with its class, how many entities have it and the spellings it absorbed.",
+   "schema": {
+    "fields": [
+     {
+      "name": "tipo",
+      "type": "string",
+      "description": "Clean type"
+     },
+     {
+      "name": "classe",
+      "type": "string",
+      "description": "Broad class of the type"
+     },
+     {
+      "name": "num_entidades",
+      "type": "integer",
+      "description": "Entities with this type"
+     },
+     {
+      "name": "grafias_originais",
+      "type": "string",
+      "description": "Source spellings merged into this type, ' | ' separated (Person | person)"
+     }
+    ]
+   }
+  },
+  {
+   "path": "gazetteer-pt.tsv",
+   "description": "The gazetteer in the format search-pattern-miner reads: entidade<TAB>tipos, lower case, lines starting with # are comments."
+  },
+  {
+   "path": "stats.json",
+   "description": "Counts of every build step (rows dropped by reason, classes, types)."
+  }
+ ]
+}

@@ -1,0 +1,1300 @@
+id,entidade,chave,chave_sem_acento,tipos,classe,tipos_originais,num_palavras,chave_curta
+150789,abate animal,abate animal,abate animal,Animal,Animal,Animal,2,false
+158821,apogonidae,apogonidae,apogonidae,Animal > Peixe,Animal,Animal > Peixe,1,false
+159662,ariidae,ariidae,ariidae,Animal > Peixe,Animal,Animal > Peixe,1,false
+269801,Ave Azul,ave azul,ave azul,Animal > Ave,Animal,Animal > Ave,2,false
+31711,bacillus cereus,bacillus cereus,bacillus cereus,Animal > Bactéria,Animal,Animal > Bacterias,2,false
+163096,bambiraptor,bambiraptor,bambiraptor,Animal > Réptil,Animal,Animal > Reptil,1,false
+55467,boca negra,boca negra,boca negra,Animal > Cão,Animal,Animal > Cão,2,false
+269845,Brangus,brangus,brangus,Animal > Boi,Animal,Animal > Boi,1,false
+169677,brycon opalinus,brycon opalinus,brycon opalinus,Animal > Peixe,Animal,Animal > Peixe,2,false
+55682,capincho,capincho,capincho,Animal,Animal,Animal,1,false
+177419,chelonia mydas,chelonia mydas,chelonia mydas,Animal,Animal,Animal,2,false
+119514,chinese crested dog,chinese crested dog,chinese crested dog,Animal > Cão,Animal,Animal > Cão,3,false
+178626,cirneco do etna,cirneco do etna,cirneco do etna,Animal > Cão,Animal,Animal > Cão,3,false
+269422,Coiote,coiote,coiote,Animal,Animal,Animal,1,false
+121372,coryphospingus cucullatus,coryphospingus cucullatus,coryphospingus cucullatus,Animal > Ave,Animal,Animal > Ave,2,false
+185327,daubentonia,daubentonia,daubentonia,Animal,Animal,Animal,1,false
+269612,Esquilo,esquilo,esquilo,Animal,Animal,Animal,1,false
+197917,forpus cyanopygius,forpus cyanopygius,forpus cyanopygius,Animal > Ave,Animal,Animal > Ave,2,false
+199122,fulica atra,fulica atra,fulica atra,Animal > Ave,Animal,Animal > Ave,2,false
+22928,great dane,great dane,great dane,Animal > Cão,Animal,Animal > Cão,2,false
+71308,guelra,guelra,guelra,Animal,Animal,Animal,1,false
+128788,heliconius,heliconius,heliconius,Animal > Inseto,Animal,Animal > Inseto,1,false
+210353,jodia,jodia,jodia,Animal > Inseto,Animal,Animal > Inseto,1,false
+215148,lampetra tridentata,lampetra tridentata,lampetra tridentata,Animal > Peixe,Animal,Animal > Peixe,2,false
+132596,lapphund,lapphund,lapphund,Animal > Cão,Animal,Animal > Cão,1,false
+218331,lucanidae,lucanidae,lucanidae,Animal > Inseto,Animal,Animal > Inseto,1,false
+6736,maritaca,maritaca,maritaca,Animal > Ave,Animal,Animal > Ave,1,false
+134971,melanerpes,melanerpes,melanerpes,Animal > Ave,Animal,Animal > Ave,1,false
+13010,micuim,micuim,micuim,Animal,Animal,Animal,1,false
+232515,paleosuchus palpebrosus,paleosuchus palpebrosus,paleosuchus palpebrosus,Animal,Animal,Animal,2,false
+233162,paradoxurus hermaphroditus,paradoxurus hermaphroditus,paradoxurus hermaphroditus,Animal,Animal,Animal,2,false
+49397,peixe mandarim,peixe mandarim,peixe mandarim,Animal,Animal,Animal,2,false
+269875,Pequeno cão russo,pequeno cão russo,pequeno cao russo,Animal > Cão,Animal,Animal > Cão,3,false
+237799,pomba goura,pomba goura,pomba goura,Animal,Animal,Animal,2,false
+140088,por thiago,por thiago,por thiago,Animal,Animal,Animal,2,false
+266225,porco da india,porco da india,porco da india,Animal,Animal,Animal,3,false
+106141,quermes,quermes,quermes,Animal,Animal,Animal,1,false
+87006,rato marrom,rato marrom,rato marrom,Animal,Animal,Animal,2,false
+269894,Raça de cães,raça de cães,raca de caes,Animal > Cão,Animal,Animal > Cão,3,false
+244477,rinoceronte negro,rinoceronte negro,rinoceronte negro,Animal,Animal,Animal,2,false
+32552,rocio octofasciata,rocio octofasciata,rocio octofasciata,Animal > Peixe,Animal,Animal > Peixe,2,false
+246777,rã roxa,rã roxa,ra roxa,Animal,Animal,Animal,2,false
+248908,scincidae,scincidae,scincidae,Animal > Réptil,Animal,Animal > Reptil,1,false
+8834,sealyham terrier,sealyham terrier,sealyham terrier,Animal > Cão,Animal,Animal > Cão,2,false
+253021,steno bredanensis,steno bredanensis,steno bredanensis,Animal,Animal,Animal,2,false
+254337,sylvia cantillans,sylvia cantillans,sylvia cantillans,Animal,Animal,Animal,2,false
+269410,Tigre-de-bengala,tigre-de-bengala,tigre-de-bengala,Animal,Animal,Animal,1,false
+258994,tropheryma whipplei,tropheryma whipplei,tropheryma whipplei,Animal > Bactéria,Animal,Animal > Bacterias,2,false
+147867,ursos pardos,ursos pardos,ursos pardos,Animal,Animal,Animal,2,false
+60130,águia real,águia real,aguia real,Animal > Ave,Animal,Animal > Ave,2,false
+50554,aloína,aloína,aloina,Compostos,Ciência e tecnologia,Compostos,1,false
+406178,Antispyware,antispyware,antispyware,Software,Ciência e tecnologia,Software,1,false
+271095,Biológico,biológico,biologico,Biologia,Ciência e tecnologia,Biologia,1,false
+61067,blastómero,blastómero,blastomero,Embriologia,Ciência e tecnologia,Embriologia,1,false
+94067,celestita,celestita,celestita,Minerais,Ciência e tecnologia,Minerais,1,false
+308879,Classificação dos aços,classificação dos aços,classificacao dos acos,Material,Ciência e tecnologia,Material,3,false
+271361,Clima subtropical úmido,clima subtropical úmido,clima subtropical umido,Clima,Ciência e tecnologia,Clima,3,false
+271370,Climas no Brasil,climas no brasil,climas no brasil,Clima,Ciência e tecnologia,Clima,3,false
+61839,comportas hidráulicas,comportas hidráulicas,comportas hidraulicas,Engenharia,Ciência e tecnologia,Engenharia,2,false
+275574,Composto molecular,composto molecular,composto molecular,Compostos,Ciência e tecnologia,Compostos,2,false
+8177,dagobah,dagobah,dagobah,Planeta,Ciência e tecnologia,Planeta,1,false
+185930,demersal,demersal,demersal,Biologia,Ciência e tecnologia,Biologia,1,false
+285424,Desenho geométrico,desenho geométrico,desenho geometrico,Geometria,Ciência e tecnologia,Geometria,2,false
+80616,dobramento moderno,dobramento moderno,dobramento moderno,Física,Ciência e tecnologia,Física,2,false
+406026,DVDFab,dvdfab,dvdfab,Software,Ciência e tecnologia,Software,1,false
+189964,edições do windows 7,edições do windows 7,edicoes do windows 7,Computação,Ciência e tecnologia,Computação,4,false
+10656,energia cinética,energia cinética,energia cinetica,Mecânica,Ciência e tecnologia,Mecânica,2,false
+81083,engenharia industrial madeireira,engenharia industrial madeireira,engenharia industrial madeireira,Engenharia,Ciência e tecnologia,Engenharia,3,false
+97076,esquizoanálise,esquizoanálise,esquizoanalise,Psicologia,Ciência e tecnologia,Psicologia,1,false
+308718,Extrapolação,extrapolação,extrapolacao,Matemática,Ciência e tecnologia,Matemática,1,false
+16998,fecal,fecal,fecal,Fisiologia,Ciência e tecnologia,Fisiologia,1,false
+97556,feldespato,feldespato,feldespato,Minerais,Ciência e tecnologia,Minerais,1,false
+39917,ferdinand saussure,ferdinand saussure,ferdinand saussure,Filosofia,Ciência e tecnologia,Filosofia,2,false
+17873,fração molar,fração molar,fracao molar,Química,Ciência e tecnologia,Química,2,false
+199580,física atómica,física atómica,fisica atomica,Física,Ciência e tecnologia,Física,2,false
+200722,geometria do táxi,geometria do táxi,geometria do taxi,Geometria,Ciência e tecnologia,Geometria,3,false
+71088,georgi,georgi,georgi,Química,Ciência e tecnologia,Química,1,false
+286088,Germinação,germinação,germinacao,Histologia,Ciência e tecnologia,Histologia,1,false
+404091,Gestão de resíduos,gestão de resíduos,gestao de residuos,Resíduos,Ciência e tecnologia,Resíduos,3,false
+201007,get born again,get born again,get born again,Química,Ciência e tecnologia,Química,3,false
+130031,inteligência existencial,inteligência existencial,inteligencia existencial,Psicologia,Ciência e tecnologia,Psicologia,2,false
+102062,lugar geométrico,lugar geométrico,lugar geometrico,Geometria,Ciência e tecnologia,Geometria,2,false
+279466,Motor elétrico trifásico,motor elétrico trifásico,motor eletrico trifasico,Eletricidade,Ciência e tecnologia,Eletricidade,3,false
+136456,máquina de atwood,máquina de atwood,maquina de atwood,Física,Ciência e tecnologia,Física,3,false
+227225,máquina de estados,máquina de estados,maquina de estados,Computação,Ciência e tecnologia,Computação,3,false
+85323,narcotráfico,narcotráfico,narcotrafico,Tecnologia,Ciência e tecnologia,Tecnologia,1,false
+285000,Nuclear,nuclear,nuclear,Física,Ciência e tecnologia,Física,1,false
+271047,Nucleotídeo,nucleotídeo,nucleotideo,Biologia,Ciência e tecnologia,Biologia,1,false
+40627,origem das celulas,origem das celulas,origem das celulas,Biologia,Ciência e tecnologia,Biologia,3,false
+235628,personal ancestral file,personal ancestral file,personal ancestral file,Software,Ciência e tecnologia,Software,3,false
+308851,Popeline,popeline,popeline,Material,Ciência e tecnologia,Material,1,false
+247289,salipax,salipax,salipax,Compostos,Ciência e tecnologia,Compostos,1,false
+144772,socket a,socket a,socket a,Computação,Ciência e tecnologia,Computação,2,false
+285605,Sujeito inexistente,sujeito inexistente,sujeito inexistente,Gramática,Ciência e tecnologia,Gramática,2,false
+253786,supermotor,supermotor,supermotor,Mecânica,Ciência e tecnologia,Mecânica,1,false
+147200,transversão,transversão,transversao,Química,Ciência e tecnologia,Química,1,false
+259769,ufologia moderna,ufologia moderna,ufologia moderna,Astronomia,Ciência e tecnologia,Astronomia,2,false
+406086,Vulkan,vulkan,vulkan,Software,Ciência e tecnologia,Software,1,false
+27841,wrl,wrl,wrl,Computação,Ciência e tecnologia,Computação,1,true
+265020,óxido de zircônio,óxido de zircônio,oxido de zirconio,Compostos,Ciência e tecnologia,Compostos,3,false
+54944,alheira de mirandela,alheira de mirandela,alheira de mirandela,Comida,Comida e bebida,Comida,3,false
+68012,baião-de-dois,baião-de-dois,baiao-de-dois,Comida,Comida e bebida,Comida,1,false
+163327,bandeira da indonésia,bandeira da indonésia,bandeira da indonesia,Comida,Comida e bebida,Comida,3,false
+163389,bandeira de blumenau,bandeira de blumenau,bandeira de blumenau,Comida,Comida e bebida,Comida,3,false
+163512,bandeira do catar,bandeira do catar,bandeira do catar,Comida,Comida e bebida,Comida,3,false
+77897,barra de cereais quaker,barra de cereais quaker,barra de cereais quaker,Comida,Comida e bebida,Comida,4,false
+273292,Bife à parmegiana,bife à parmegiana,bife a parmegiana,Comida,Comida e bebida,comida,3,false
+272921,Bombom crocante,bombom crocante,bombom crocante,Comida,Comida e bebida,comida,2,false
+55536,broa de avintes,broa de avintes,broa de avintes,Comida,Comida e bebida,Comida,3,false
+171046,café bombón,café bombón,cafe bombon,Comida,Comida e bebida,Comida,2,false
+41745,carneiro no buraco,carneiro no buraco,carneiro no buraco,Comida,Comida e bebida,Comida,3,false
+44451,chocolate branco galak,chocolate branco galak,chocolate branco galak,Comida,Comida e bebida,Comida,3,false
+178115,chá verde sabor limão,chá verde sabor limão,cha verde sabor limao,Comida,Comida e bebida,Comida,4,false
+272441,Cookie Quaker,cookie quaker,cookie quaker,Comida,Comida e bebida,comida,2,false
+273011,Cozinha africana,cozinha africana,cozinha africana,Comida,Comida e bebida,comida,2,false
+272091,Creme de palmito,creme de palmito,creme de palmito,Comida,Comida e bebida,comida,3,false
+272277,Culinária espanhola,culinária espanhola,culinaria espanhola,Comida,Comida e bebida,comida,2,false
+2226,cupuaçu,cupuaçu,cupuacu,Comida,Comida e bebida,Comida,1,false
+47819,del valle mais,del valle mais,del valle mais,Comida,Comida e bebida,Comida,3,false
+273098,Diet Shake Woman,diet shake woman,diet shake woman,Comida,Comida e bebida,comida,3,false
+272357,Drupa,drupa,drupa,Comida,Comida e bebida,Comida,1,false
+272608,Espinafre,espinafre,espinafre,Comida,Comida e bebida,Comida,1,false
+273151,Fricassê de Frango,fricassê de frango,fricasse de frango,Comida,Comida e bebida,comida,3,false
+52138,furrundu,furrundu,furrundu,Comida,Comida e bebida,Comida,1,false
+932,ganache,ganache,ganache,Comida,Comida e bebida,Comida,1,false
+24868,halawi,halawi,halawi,Comida,Comida e bebida,Comida,1,false
+733,jabuticaba,jabuticaba,jabuticaba,Comida,Comida e bebida,Comida,1,false
+29212,malassada,malassada,malassada,Comida,Comida e bebida,Comida,1,false
+30126,marzipan,marzipan,marzipan,Comida,Comida e bebida,Comida,1,false
+9170,misto quente,misto quente,misto quente,Comida,Comida e bebida,Comida,2,false
+33633,molho inglês,molho inglês,molho ingles,Comida,Comida e bebida,Comida,2,false
+1745,moranga,moranga,moranga,Comida,Comida e bebida,Comida,1,false
+273052,Napolitana,napolitana,napolitana,Comida,Comida e bebida,Comida,1,false
+233061,papia,papia,papia,Comida,Comida e bebida,Comida,1,false
+219,parati,parati,parati,Comida,Comida e bebida,Comida,1,false
+233968,pastel de massa tenra,pastel de massa tenra,pastel de massa tenra,Comida,Comida e bebida,Comida,4,false
+138978,patê de azeitonas,patê de azeitonas,pate de azeitonas,Comida,Comida e bebida,Comida,3,false
+235637,pertences para feijoada sadia,pertences para feijoada sadia,pertences para feijoada sadia,Comida,Comida e bebida,Comida,4,false
+1962,pinhão,pinhão,pinhao,Comida,Comida e bebida,Comida,1,false
+272993,Polaca,polaca,polaca,Comida,Comida e bebida,Comida,1,false
+240359,pão de aipim sem glúten,pão de aipim sem glúten,pao de aipim sem gluten,Comida,Comida e bebida,Comida,5,false
+13357,pêra,pêra,pera,Comida,Comida e bebida,Comida,1,false
+20295,queijo fundido,queijo fundido,queijo fundido,Comida,Comida e bebida,Comida,2,false
+19730,queijo roquefort,queijo roquefort,queijo roquefort,Comida,Comida e bebida,Comida,2,false
+248880,schwarzwälder kirschtorte,schwarzwälder kirschtorte,schwarzwalder kirschtorte,Comida,Comida e bebida,Comida,2,false
+271754,Sorvete de Baunilha,sorvete de baunilha,sorvete de baunilha,Comida,Comida e bebida,comida,3,false
+272973,Tomilho,tomilho,tomilho,Comida,Comida e bebida,Comida,1,false
+147099,torta de palmito sadia,torta de palmito sadia,torta de palmito sadia,Comida,Comida e bebida,Comida,4,false
+1758,viking,viking,viking,Comida,Comida e bebida,Comida,1,false
+37214,zatar,zatar,zatar,Comida,Comida e bebida,Comida,1,false
+150302,a lenda da carruagem de ana jansen,a lenda da carruagem de ana jansen,a lenda da carruagem de ana jansen,Lenda,Cultura e idioma,Lenda,7,false
+152369,adigue,adigue,adigue,Idioma,Cultura e idioma,Idioma,1,false
+265276,Amarelo-escuro,amarelo-escuro,amarelo-escuro,Cor,Cultura e idioma,Cor,1,false
+286478,Amonita,amonita,amonita,Idioma,Cultura e idioma,Idioma,1,false
+265191,Anil,anil,anil,Cor,Cultura e idioma,Cor,1,false
+161229,assurinis do tocantins,assurinis do tocantins,assurinis do tocantins,Origem,Cultura e idioma,Origem,3,false
+265309,Azul petróleo,azul petróleo,azul petroleo,Cor,Cultura e idioma,Cor,2,false
+317018,Bascos,bascos,bascos,Origem,Cultura e idioma,Origem,1,false
+78403,bordado labirinto,bordado labirinto,bordado labirinto,Arte,Cultura e idioma,Art,2,false
+270334,Bronzino,bronzino,bronzino,Arte,Cultura e idioma,Art,1,false
+24761,cingalês,cingalês,cingales,Idioma,Cultura e idioma,Idioma,1,false
+265345,Cinza escuro,cinza escuro,cinza escuro,Cor,Cultura e idioma,Cor,2,false
+181927,conni,conni,conni,Origem,Cultura e idioma,Origem,1,false
+317020,Coréia do Sul,coréia do sul,coreia do sul,Origem,Cultura e idioma,Origem,3,false
+69716,daito-ryu,daito-ryu,daito-ryu,Arte,Cultura e idioma,Art,1,false
+276320,Design de mobiliário,design de mobiliário,design de mobiliario,Design,Cultura e idioma,Design,3,false
+122640,dialeto cearense,dialeto cearense,dialeto cearense,Cultura,Cultura e idioma,Cultura,2,false
+270305,Estúdios,estúdios,estudios,Arte,Cultura e idioma,Art,1,false
+317121,Européia,européia,europeia,Origem,Cultura e idioma,Origem,1,false
+51988,feriados em portugal,feriados em portugal,feriados em portugal,Cultura,Cultura e idioma,Cultura,3,false
+126995,fursuit,fursuit,fursuit,Arte,Cultura e idioma,Art,1,false
+330208,Grotesco,grotesco,grotesco,Pintura,Cultura e idioma,Pintura,1,false
+206013,humor barato,humor barato,humor barato,Humor,Cultura e idioma, Humor,2,false
+331392,Ibero,ibero,ibero,Povo,Cultura e idioma,Povo,1,false
+206475,idioma catalão,idioma catalão,idioma catalao,Idioma,Cultura e idioma,Idioma,2,false
+207160,imigração alemã nos estados unidos,imigração alemã nos estados unidos,imigracao alema nos estados unidos,Origem,Cultura e idioma,Origem,5,false
+207178,imigração nigeriana no brasil,imigração nigeriana no brasil,imigracao nigeriana no brasil,Origem,Cultura e idioma,Origem,4,false
+207181,imigração russa no brasil,imigração russa no brasil,imigracao russa no brasil,Origem,Cultura e idioma,Origem,4,false
+286369,Klingon,klingon,klingon,Idioma,Cultura e idioma,Idioma,1,false
+286536,Latim arcaico,latim arcaico,latim arcaico,Idioma,Cultura e idioma,Idioma,2,false
+72383,latoaria,latoaria,latoaria,Arte,Cultura e idioma,Art,1,false
+102131,luta corpo a corpo,luta corpo a corpo,luta corpo a corpo,Arte,Cultura e idioma,Art,4,false
+219414,macaenses,macaenses,macaenses,Origem,Cultura e idioma,Origem,1,false
+221654,marwari,marwari,marwari,Idioma,Cultura e idioma,Idioma,1,false
+221972,matita pereira,matita pereira,matita pereira,Lenda,Cultura e idioma,Lenda,2,false
+331412,Mbyá,mbyá,mbya,Povo,Cultura e idioma,Povo,1,false
+103395,mozárabe,mozárabe,mozarabe,Idioma,Cultura e idioma,Idioma,1,false
+330213,Murais,murais,murais,Pintura,Cultura e idioma,Pintura,1,false
+316949,Os fenicios,os fenicios,os fenicios,Origem,Cultura e idioma,Origem,2,false
+236174,pietà de florença,pietà de florença,pieta de florenca,Cultura,Cultura e idioma,Cultura,3,false
+330173,Pintura portuguesa,pintura portuguesa,pintura portuguesa,Pintura,Cultura e idioma,Pintura,2,false
+316931,Portuguesa,portuguesa,portuguesa,Origem,Cultura e idioma,Origem,1,false
+316897,Prussiana,prussiana,prussiana,Origem,Cultura e idioma,Origem,1,false
+107011,rock dançante,rock dançante,rock dancante,Dança,Cultura e idioma, Dança,2,false
+250960,sinalização ambiental,sinalização ambiental,sinalizacao ambiental,Design,Cultura e idioma,Design,2,false
+317092,Siria,siria,siria,Origem,Cultura e idioma,Origem,1,false
+408057,Teatro Brigadeiro,teatro brigadeiro,teatro brigadeiro,Teatro,Cultura e idioma,Teatro,2,false
+408026,Teatro de rua,teatro de rua,teatro de rua,Teatro,Cultura e idioma,Teatro,3,false
+109348,tigray,tigray,tigray,Idioma,Cultura e idioma,Idioma,1,false
+260379,uomo universale,uomo universale,uomo universale,Cultura,Cultura e idioma,Cultura,2,false
+363854,Agentes penitenciários,agentes penitenciários,agentes penitenciarios,Profissão,Economia e negócios,Profissão,2,false
+364091,Agência de Publicidade,agência de publicidade,agencia de publicidade,Publicidade,Economia e negócios,Publicidade,3,false
+60472,ambiente de inovação,ambiente de inovação,ambiente de inovacao,Administração,Economia e negócios,Administração,3,false
+363825,Antropólogos,antropólogos,antropologos,Profissão,Economia e negócios,profissão,1,false
+270773,Basileia III,basileia iii,basileia iii,Banco,Economia e negócios,Banco,2,false
+164677,bate chapa,bate chapa,bate chapa,Profissão,Economia e negócios,Profissão,2,false
+18855,beps,beps,beps,Impostos,Economia e negócios, Impostos,1,false
+308553,Branded content,branded content,branded content,Marketing,Economia e negócios,Marketing,2,false
+5950,business to business,business to business,business to business,Marketing,Economia e negócios, Marketing,3,false
+276053,Capital circulante líquido,capital circulante líquido,capital circulante liquido,Contabilidade,Economia e negócios,Contabilidade,3,false
+363935,Colono,colono,colono,Profissão,Economia e negócios,Profissão,1,false
+120692,condomínio industrial,condomínio industrial,condominio industrial,Indústria,Economia e negócios,Indústria,2,false
+181254,confederação brasileira de apicultura,confederação brasileira de apicultura,confederacao brasileira de apicultura,Apicultura,Economia e negócios, Apicultura,4,false
+284801,Conta Corrente,conta corrente,conta corrente,Finanças,Economia e negócios,Finanças,2,false
+310658,Coroa de prata,coroa de prata,coroa de prata,Moeda,Economia e negócios,Moeda,3,false
+310607,Cruzado novo,cruzado novo,cruzado novo,Moeda,Economia e negócios,Moeda,2,false
+284822,Custo Unitário Básico,custo unitário básico,custo unitario basico,Finanças,Economia e negócios,Finanças,3,false
+286694,Darf,darf,darf,Impostos,Economia e negócios,Impostos,1,false
+186917,dilema de triffin,dilema de triffin,dilema de triffin,Economia,Economia e negócios,Economia,3,false
+276023,Dívida Pública,dívida pública,divida publica,Contabilidade,Economia e negócios,Contabilidade,2,false
+62379,economia de escopo,economia de escopo,economia de escopo,Economia,Economia e negócios,Economia,3,false
+4577,email marketing,email marketing,email marketing,Marketing,Economia e negócios, Marketing,2,false
+42134,empresas petrolíferas,empresas petrolíferas,empresas petroliferas,Indústria,Economia e negócios,Indústria,2,false
+195681,feira empresarial,feira empresarial,feira empresarial,Comércio,Economia e negócios,Comércio,2,false
+306688,Gerente de operações,gerente de operações,gerente de operacoes,Logística,Economia e negócios,Logística,3,false
+284831,Hedge fund,hedge fund,hedge fund,Finanças,Economia e negócios,Finanças,2,false
+206318,ias 17,ias 17,ias 17,Contabilidade,Economia e negócios,Contabilidade,2,false
+3377,imediato,imediato,imediato,Profissão,Economia e negócios,Profissão,1,false
+129890,indústria petrolífera,indústria petrolífera,industria petrolifera,Petróleo,Economia e negócios, Petróleo,2,false
+310666,Krugerrand,krugerrand,krugerrand,Moeda,Economia e negócios,Moeda,1,false
+310702,Libra Esterlina,libra esterlina,libra esterlina,Moeda,Economia e negócios,Moeda,2,false
+217051,liras italianas,liras italianas,liras italianas,Moeda,Economia e negócios, Moeda,2,false
+221422,marketing de causa,marketing de causa,marketing de causa,Marketing,Economia e negócios,Marketing,3,false
+45592,mercado b2b,mercado b2b,mercado b2b,Marketing,Economia e negócios, Marketing,2,false
+7362,mestre de obras,mestre de obras,mestre de obras,Profissão,Economia e negócios,Profissão,3,false
+310748,moeda olimpiadas 2016,moeda olimpiadas 2016,moeda olimpiadas 2016,Moeda,Economia e negócios,Moeda,3,false
+137244,nova lira turca,nova lira turca,nova lira turca,Moeda,Economia e negócios, Moeda,3,false
+363886,Operador de caixa,operador de caixa,operador de caixa,Profissão,Economia e negócios,Profissão,3,false
+310740,para peso argentino,para peso argentino,para peso argentino,Moeda,Economia e negócios,Moeda,3,false
+38647,protecionismo alfandegário,protecionismo alfandegário,protecionismo alfandegario,Comércio,Economia e negócios,Comércio,2,false
+17939,protecção civil,protecção civil,proteccao civil,Administração,Economia e negócios,Administração,2,false
+284807,Remuneração Variável,remuneração variável,remuneracao variavel,Finanças,Economia e negócios,Finanças,2,false
+363830,Sanitarista,sanitarista,sanitarista,Profissão,Economia e negócios,profissão,1,false
+306692,SCM,scm,scm,Logística,Economia e negócios,Logística,1,true
+144552,sistema penitenciário federal,sistema penitenciário federal,sistema penitenciario federal,Administração,Economia e negócios,Administração,3,false
+34037,tráfico de órgãos,tráfico de órgãos,trafico de orgaos,Comércio,Economia e negócios,Comércio,3,false
+286715,Tusd,tusd,tusd,Impostos,Economia e negócios,Impostos,1,false
+34046,técnico em regulação,técnico em regulação,tecnico em regulacao,Administração,Economia e negócios,Administração,3,false
+260071,unidade de manutenção de estoque,unidade de manutenção de estoque,unidade de manutencao de estoque,Logística,Economia e negócios,Logística,5,false
+13820,valor residual,valor residual,valor residual,Contabilidade,Economia e negócios,Contabilidade,2,false
+50565,alótropo,alótropo,alotropo,Educação,Educação,Educação,1,false
+55067,antonio meneghetti faculdade,antonio meneghetti faculdade,antonio meneghetti faculdade,Educação,Educação,Educação,3,false
+161470,atlas c,atlas c,atlas c,Concursos,Educação, Concursos,2,false
+162747,baidu baike,baidu baike,baidu baike,Educação,Educação,Educação,2,false
+279422,Bolsista,bolsista,bolsista,Educação,Educação,Educação,1,false
+37651,cmpa,cmpa,cmpa,Educação,Educação,Educação,1,false
+120406,colégio militar do paraná,colégio militar do paraná,colegio militar do parana,Educação,Educação,Educação,4,false
+120660,condensação de claisen,condensação de claisen,condensacao de claisen,Educação,Educação,Educação,3,false
+95170,coordenação psicomotora,coordenação psicomotora,coordenacao psicomotora,Educação,Educação,Educação,2,false
+278531,Crianças especiais,crianças especiais,criancas especiais,Educação,Educação,Educação,2,false
+279427,Educação superior,educação superior,educacao superior,Educação,Educação,Educação,2,false
+5308,emile durkheim,emile durkheim,emile durkheim,Educação,Educação,Educação,2,false
+192117,escola agrotécnica federal de cáceres,escola agrotécnica federal de cáceres,escola agrotecnica federal de caceres,Educação,Educação,Educação,5,false
+278582,Escola bíblica dominical,escola bíblica dominical,escola biblica dominical,Educação,Educação,Educação,3,false
+2805,escola militar,escola militar,escola militar,Educação,Educação,Educação,2,false
+96977,escola nacional de administração pública,escola nacional de administração pública,escola nacional de administracao publica,Educação,Educação,Educação,5,false
+278751,Escola privada,escola privada,escola privada,Educação,Educação,Educação,2,false
+279306,Escola Superior de Belas Artes,escola superior de belas artes,escola superior de belas artes,Educação,Educação,Educação,5,false
+278980,Estudos sociais,estudos sociais,estudos sociais,Educação,Educação,Educação,2,false
+56681,etep faculdades,etep faculdades,etep faculdades,Educação,Educação,Educação,2,false
+194800,faculdade de tecnologia de são josé dos campos,faculdade de tecnologia de são josé dos campos,faculdade de tecnologia de sao jose dos campos,Educação,Educação,Educação,8,false
+278987,Faculdades Promove,faculdades promove,faculdades promove,Educação,Educação,Educação,2,false
+125680,fefiso,fefiso,fefiso,Educação,Educação,Educação,1,false
+82789,hospital de ensino,hospital de ensino,hospital de ensino,Educação,Educação,Educação,3,false
+278996,Ikastola,ikastola,ikastola,Educação,Educação,Educação,1,false
+20814,imagem corporal,imagem corporal,imagem corporal,Educação,Educação,Educação,2,false
+279067,Instituto Federal,instituto federal,instituto federal,Educação,Educação,Educação,2,false
+279003,Instituto Federal do Sul de Minas,instituto federal do sul de minas,instituto federal do sul de minas,Educação,Educação,Educação,6,false
+224470,miss beleza internacional 2014,miss beleza internacional 2014,miss beleza internacional 2014,Concursos,Educação,Concursos,4,false
+224487,miss brasil 1982,miss brasil 1982,miss brasil 1982,Concursos,Educação,Concursos,3,false
+224589,miss universo 1970,miss universo 1970,miss universo 1970,Concursos,Educação,Concursos,3,false
+224608,miss universo 1995,miss universo 1995,miss universo 1995,Concursos,Educação,Concursos,3,false
+43256,programa conectividade,programa conectividade,programa conectividade,Educação,Educação,Educação,2,false
+141153,química alimentar,química alimentar,quimica alimentar,Educação,Educação,Educação,2,false
+275950,R-77,r-77,r-77,Concursos,Educação,Concursos,1,false
+33841,retardado mental,retardado mental,retardado mental,Educação,Educação,Educação,2,false
+249627,seneca college,seneca college,seneca college,Educação,Educação,Educação,2,false
+278573,Sistema Dual,sistema dual,sistema dual,Educação,Educação,Educação,2,false
+252950,staël maria da rocha abelha,staël maria da rocha abelha,stael maria da rocha abelha,Concursos,Educação,Concursos,5,false
+275965,TOW,tow,tow,Concursos,Educação,Concursos,1,true
+41152,trabalho de equipe,trabalho de equipe,trabalho de equipe,Educação,Educação,Educação,3,false
+278586,UERN,uern,uern,Educação,Educação,Educação,1,false
+12185,uiuc,uiuc,uiuc,Educação,Educação,Educação,1,false
+13902,unesp rio preto,unesp rio preto,unesp rio preto,Educação,Educação,Educação,3,false
+278939,Unisinos Porto Alegre,unisinos porto alegre,unisinos porto alegre,Educação,Educação,Educação,3,false
+278731,Universidade da Pensilvânia,universidade da pensilvânia,universidade da pensilvania,Educação,Educação,Educação,3,false
+278944,Universidade do grande rio,universidade do grande rio,universidade do grande rio,Educação,Educação,Educação,4,false
+278641,Universidade estadual do piauí,universidade estadual do piauí,universidade estadual do piaui,Educação,Educação,Educação,4,false
+278802,Universidade federal da bahia,universidade federal da bahia,universidade federal da bahia,Educação,Educação,Educação,4,false
+89289,university of minnesota,university of minnesota,university of minnesota,Educação,Educação,Educação,3,false
+50423,abbey dawn,abbey dawn,abbey dawn,Marca,Empresa e marca,Marca,2,false
+153066,afc amazon forest combat,afc amazon forest combat,afc amazon forest combat,Empresa,Empresa e marca,Company,4,false
+274838,Aliansce,aliansce,aliansce,Empresa,Empresa e marca,Company,1,false
+274422,Bank of China,bank of china,bank of china,Empresa,Empresa e marca,Company,3,false
+405216,Bing Translator,bing translator,bing translator,Site,Empresa e marca,Site,2,false
+167330,blockbuster brasil,blockbuster brasil,blockbuster brasil,Empresa,Empresa e marca,Company,2,false
+307441,Car Fashion,car fashion,car fashion,Marca,Empresa e marca,Marca,2,false
+15637,cineplace,cineplace,cineplace,Empresa,Empresa e marca,Company,1,false
+274674,Clone,clone,clone,Empresa,Empresa e marca,Company,1,false
+1203,coleman,coleman,coleman,Marca,Empresa e marca,marca,1,false
+17494,cosworth,cosworth,cosworth,Empresa,Empresa e marca,Company,1,false
+407987,CSD,csd,csd,Supermercado,Empresa e marca,Supermercado,1,true
+23779,cvrd,cvrd,cvrd,Empresa,Empresa e marca,Company,1,false
+96198,dqs,dqs,dqs,Empresa,Empresa e marca,Company,1,true
+13855,dreamworks animation skg,dreamworks animation skg,dreamworks animation skg,Empresa,Empresa e marca,Company,3,false
+189169,ea maxis,ea maxis,ea maxis,Empresa,Empresa e marca,Company,2,false
+189893,editora mauad,editora mauad,editora mauad,Marca,Empresa e marca,marca,2,false
+275134,Eletrobras Distribuição Acre,eletrobras distribuição acre,eletrobras distribuicao acre,Empresa,Empresa e marca,Company,3,false
+70280,empresa gestora de ativos,empresa gestora de ativos,empresa gestora de ativos,Empresa,Empresa e marca,Company,4,false
+21731,everglide,everglide,everglide,Marca,Empresa e marca,marca,1,false
+308101,Fulgor,fulgor,fulgor,Marca,Empresa e marca,Marca,1,false
+307161,Furacão Pet,furacão pet,furacao pet,Marca,Empresa e marca,Marca,2,false
+202737,grupo elevo,grupo elevo,grupo elevo,Empresa,Empresa e marca,Company,2,false
+274490,GRUPO ESTADO,grupo estado,grupo estado,Empresa,Empresa e marca,Company,2,false
+274495,Grupo Rede,grupo rede,grupo rede,Empresa,Empresa e marca,Company,2,false
+202783,grupo scc,grupo scc,grupo scc,Empresa,Empresa e marca,Company,2,false
+275260,Hofstetter,hofstetter,hofstetter,Empresa,Empresa e marca,Company,1,false
+208194,iraqi airways,iraqi airways,iraqi airways,Empresa,Empresa e marca,Company,2,false
+7360,jbc,jbc,jbc,Marca,Empresa e marca,marca,1,true
+23925,k-1,k-1,k-1,Empresa,Empresa e marca,Company,1,true
+72181,keep shoes,keep shoes,keep shoes,Marca,Empresa e marca,marca,2,false
+405180,Logmein,logmein,logmein,Site,Empresa e marca,Site,1,false
+2642,madesa,madesa,madesa,Marca,Empresa e marca,marca,1,false
+103092,miss peru,miss peru,miss peru,Empresa,Empresa e marca,Company,2,false
+227160,máquina cohn & wolfe,máquina cohn & wolfe,maquina cohn & wolfe,Empresa,Empresa e marca,Company,4,false
+228290,neopontos,neopontos,neopontos,Empresa,Empresa e marca,Company,1,false
+38492,nissan quest,nissan quest,nissan quest,Empresa,Empresa e marca,Company,2,false
+45784,nufarm,nufarm,nufarm,Empresa,Empresa e marca,Company,1,false
+307567,OH2 Nutrition,oh2 nutrition,oh2 nutrition,Marca,Empresa e marca,Marca,2,false
+104349,omodox,omodox,omodox,Empresa,Empresa e marca,Company,1,false
+405301,PokerStars,pokerstars,pokerstars,Site,Empresa e marca,Site,1,false
+274634,Predilecta Alimentos,predilecta alimentos,predilecta alimentos,Empresa,Empresa e marca,Company,2,false
+307765,Pretorian,pretorian,pretorian,Marca,Empresa e marca,Marca,1,false
+307290,PROCTER,procter,procter,Marca,Empresa e marca,Marca,1,false
+275109,Rigesa,rigesa,rigesa,Empresa,Empresa e marca,Company,1,false
+306949,Sumemo,sumemo,sumemo,Marca,Empresa e marca,Marca,1,false
+3804,três corações,três corações,tres coracoes,Marca,Empresa e marca,marca,2,false
+405176,Ustream,ustream,ustream,Site,Empresa e marca,Site,1,false
+25149,voisin,voisin,voisin,Empresa,Empresa e marca,Company,1,false
+407996,Zona Sul Supermercados,zona sul supermercados,zona sul supermercados,Supermercado,Empresa e marca,Supermercado,3,false
+29559,200 m,200 m,200 m,Esporte,Esporte,Sport,2,false
+153111,afogadense futebol clube,afogadense futebol clube,afogadense futebol clube,Esporte,Esporte,Sport,3,false
+60399,alexandre magnani,alexandre magnani,alexandre magnani,Esporte,Esporte,Sport,2,false
+406902,Associação desportiva confiança,associação desportiva confiança,associacao desportiva confianca,Esporte,Esporte,Sport,3,false
+161179,associação esportiva são borja,associação esportiva são borja,associacao esportiva sao borja,Esporte,Esporte,Sport,4,false
+407376,Atletico-mg,atletico-mg,atletico-mg,Esporte,Esporte,Sport,1,false
+406403,Barclays Premier League,barclays premier league,barclays premier league,Esporte,Esporte,Sport,3,false
+4585,betis,betis,betis,Esporte,Esporte,Sport,1,false
+34346,ca juventus,ca juventus,ca juventus,Esporte,Esporte,Sport,2,false
+174109,carolina dynamo,carolina dynamo,carolina dynamo,Esporte,Esporte,Sport,2,false
+179240,clube atlético ypiranga,clube atlético ypiranga,clube atletico ypiranga,Esporte,Esporte,Sport,3,false
+179264,clube de futebol os unidos,clube de futebol os unidos,clube de futebol os unidos,Esporte,Esporte,Sport,5,false
+179319,clube futebol carvalheiro,clube futebol carvalheiro,clube futebol carvalheiro,Esporte,Esporte,Sport,3,false
+180395,comando azul,comando azul,comando azul,Esporte,Esporte,Sport,2,false
+407576,Copa Brasil,copa brasil,copa brasil,Esporte,Esporte,Sport,2,false
+182586,copa do mundo de futsal 2008,copa do mundo de futsal 2008,copa do mundo de futsal 2008,Esporte,Esporte,Sport,6,false
+182590,copa do mundo de rugby union,copa do mundo de rugby union,copa do mundo de rugby union,Esporte,Esporte,Sport,6,false
+407803,Corintiano,corintiano,corintiano,Esporte,Esporte,Sport,1,false
+407382,Desportiva,desportiva,desportiva,Esporte,Esporte,Sport,1,false
+123006,diósgyor,diósgyor,diosgyor,Esporte,Esporte,Sport,1,false
+190363,ekranas,ekranas,ekranas,Esporte,Esporte,Sport,1,false
+70623,fc arsenal tula,fc arsenal tula,fc arsenal tula,Esporte,Esporte,Sport,3,false
+196149,ferroviário esporte clube,ferroviário esporte clube,ferroviario esporte clube,Esporte,Esporte,Sport,3,false
+407115,Freixieiro,freixieiro,freixieiro,Esporte,Esporte,Sport,1,false
+199421,futebol clube do crato,futebol clube do crato,futebol clube do crato,Esporte,Esporte,Sport,4,false
+406959,Ginástica localizada,ginástica localizada,ginastica localizada,Esporte,Esporte,Sport,2,false
+407706,Guatemala 2015,guatemala 2015,guatemala 2015,Esporte,Esporte,Sport,2,false
+406966,Jogo de queimada,jogo de queimada,jogo de queimada,Esporte,Esporte,Sport,3,false
+23924,juventud unida,juventud unida,juventud unida,Esporte,Esporte,Sport,2,false
+21788,lanús,lanús,lanus,Esporte,Esporte,Sport,1,false
+101723,liga dos campeões da afc,liga dos campeões da afc,liga dos campeoes da afc,Esporte,Esporte,Sport,5,false
+229414,nova odessa atlético clube,nova odessa atlético clube,nova odessa atletico clube,Esporte,Esporte,Sport,4,false
+230615,odivelas futebol clube,odivelas futebol clube,odivelas futebol clube,Esporte,Esporte,Sport,3,false
+49281,olympique marseille,olympique marseille,olympique marseille,Esporte,Esporte,Sport,2,false
+104635,pago pago,pago pago,pago pago,Esporte,Esporte,Sport,2,false
+406239,Paulo Wanderley,paulo wanderley,paulo wanderley,Esporte,Esporte,Sport,2,false
+139470,petrolina futebol clube,petrolina futebol clube,petrolina futebol clube,Esporte,Esporte,Sport,3,false
+140262,poços de caldas futebol clube,poços de caldas futebol clube,pocos de caldas futebol clube,Esporte,Esporte,Sport,5,false
+140505,primo fernandes,primo fernandes,primo fernandes,Esporte,Esporte,Sport,2,false
+1980,rosario central,rosario central,rosario central,Esporte,Esporte,Sport,2,false
+406352,Salto Tandem,salto tandem,salto tandem,Esporte,Esporte,Sport,2,false
+247813,sangue tricolor,sangue tricolor,sangue tricolor,Esporte,Esporte,Sport,2,false
+49840,saunier duval,saunier duval,saunier duval,Esporte,Esporte,Sport,2,false
+248720,sc união torreense,sc união torreense,sc uniao torreense,Esporte,Esporte,Sport,3,false
+251360,skjold,skjold,skjold,Esporte,Esporte,Sport,1,false
+255124,taekwondo songahm,taekwondo songahm,taekwondo songahm,Esporte,Esporte,Sport,2,false
+147381,tsv hartberg,tsv hartberg,tsv hartberg,Esporte,Esporte,Sport,2,false
+259689,ud leiria,ud leiria,ud leiria,Esporte,Esporte,Sport,2,false
+43734,ufc 193,ufc 193,ufc 193,Esporte,Esporte,Sport,2,false
+407401,Zagueiro,zagueiro,zagueiro,Esporte,Esporte,Sport,1,false
+67744,apresentação de maria,apresentação de maria,apresentacao de maria,Evento,Evento,Evento,3,false
+25771,billboard music awards,billboard music awards,billboard music awards,Premiação,Evento,Premiação,3,false
+172269,campeonato fluminense de futebol,campeonato fluminense de futebol,campeonato fluminense de futebol,Premiação,Evento,Premiação,4,false
+281421,Carnaval de Rio Branco,carnaval de rio branco,carnaval de rio branco,Evento,Evento,Evento,4,false
+174058,carnaxelita,carnaxelita,carnaxelita,Evento,Evento,Evento,1,false
+281390,Comemoração,comemoração,comemoracao,Evento,Evento,Evento,1,false
+12857,copa do mundo de futebol,copa do mundo de futebol,copa do mundo de futebol,Premiação,Evento,Premiação,5,false
+11450,copa rio,copa rio,copa rio,Premiação,Evento,Premiação,2,false
+95897,dia da independência dos estados unidos,dia da independência dos estados unidos,dia da independencia dos estados unidos,Evento,Evento,Evento,6,false
+281461,Dia da mentira,dia da mentira,dia da mentira,Evento,Evento,Evento,3,false
+95898,dia da reforma,dia da reforma,dia da reforma,Evento,Evento,Evento,3,false
+186600,dia internacional sem dieta,dia internacional sem dieta,dia internacional sem dieta,Evento,Evento,Evento,4,false
+186601,dia mundial da tartaruga,dia mundial da tartaruga,dia mundial da tartaruga,Evento,Evento,Evento,4,false
+22853,dia santo,dia santo,dia santo,Evento,Evento,Evento,2,false
+70508,eusébio cup,eusébio cup,eusebio cup,Premiação,Evento,Premiação,2,false
+194295,exaltação da cruz,exaltação da cruz,exaltacao da cruz,Evento,Evento,Evento,3,false
+281440,Expo Itaguaí,expo itaguaí,expo itaguai,Evento,Evento,Evento,2,false
+17867,feira de ciências,feira de ciências,feira de ciencias,Premiação,Evento,Premiação,3,false
+281341,Festa do Sairé,festa do sairé,festa do saire,Evento,Evento,Evento,3,false
+281312,Festa à fantasia,festa à fantasia,festa a fantasia,Evento,Evento,Evento,3,false
+281396,Festas populares,festas populares,festas populares,Evento,Evento,Evento,2,false
+281366,Festival de Brasília do Cinema Brasileiro,festival de brasília do cinema brasileiro,festival de brasilia do cinema brasileiro,Evento,Evento,Evento,6,false
+196219,festival de inverno de campos de jordão,festival de inverno de campos de jordão,festival de inverno de campos de jordao,Evento,Evento,Evento,7,false
+125869,festival de águas claras,festival de águas claras,festival de aguas claras,Evento,Evento,Evento,4,false
+196247,festival vegetariano,festival vegetariano,festival vegetariano,Evento,Evento,Evento,2,false
+201358,giro di lombardia,giro di lombardia,giro di lombardia,Premiação,Evento,Premiação,3,false
+265446,grand slam de tenis,grand slam de tenis,grand slam de tenis,Premiação,Evento,Premiação,4,false
+281454,Grupo Especial de São Paulo,grupo especial de são paulo,grupo especial de sao paulo,Evento,Evento,Evento,5,false
+281455,Grupo Especial do Rio de Janeiro,grupo especial do rio de janeiro,grupo especial do rio de janeiro,Evento,Evento,Evento,6,false
+22939,hellfest,hellfest,hellfest,Evento,Evento,Evento,1,false
+57256,história das copas do mundo,história das copas do mundo,historia das copas do mundo,Premiação,Evento,Premiação,5,false
+129883,indy lights,indy lights,indy lights,Premiação,Evento,Premiação,2,false
+214550,kumbh mela,kumbh mela,kumbh mela,Evento,Evento,Evento,2,false
+133090,liga europa da uefa,liga europa da uefa,liga europa da uefa,Premiação,Evento,Premiação,4,false
+331444,Maquiagem e Penteados,maquiagem e penteados,maquiagem e penteados,Premiação,Evento,Premiação,3,false
+85201,mundial 1982,mundial 1982,mundial 1982,Evento > Esporte,Evento,Evento > Sport,2,false
+228866,nippon professional baseball,nippon professional baseball,nippon professional baseball,Premiação,Evento,Premiação,3,false
+230828,olimpíada brasileira de matemática,olimpíada brasileira de matemática,olimpiada brasileira de matematica,Premiação,Evento,Premiação,4,false
+331417,Oscar 2002,oscar 2002,oscar 2002,Premiação,Evento,Premiação,2,false
+331434,Oscar de melhor atriz,oscar de melhor atriz,oscar de melhor atriz,Premiação,Evento,Premiação,4,false
+231825,oscar de melhor roteiro adaptado,oscar de melhor roteiro adaptado,oscar de melhor roteiro adaptado,Premiação,Evento,Premiação,5,false
+140751,prémio pritzker,prémio pritzker,premio pritzker,Premiação,Evento,Premiação,2,false
+331453,Prêmio São Paulo,prêmio são paulo,premio sao paulo,Premiação,Evento,Premiação,3,false
+281283,Rock brasil,rock brasil,rock brasil,Evento,Evento,Evento,2,false
+281333,Semana do saco cheio,semana do saco cheio,semana do saco cheio,Evento,Evento,Evento,4,false
+108575,summer sonic,summer sonic,summer sonic,Evento,Evento,Evento,2,false
+253592,summer sonic festival,summer sonic festival,summer sonic festival,Evento,Evento,Evento,3,false
+54391,taça das confederações,taça das confederações,taca das confederacoes,Evento > Esporte,Evento,Evento > Sport,3,false
+147047,top star,top star,top star,Evento > Esporte,Evento,Evento > Sport,2,false
+281464,Yom Kipur,yom kipur,yom kipur,Evento,Evento,Evento,2,false
+281828,A Cidadela,a cidadela,a cidadela,Filme,Filme e TV,Film,2,false
+67200,a grande vitória,a grande vitória,a grande vitoria,Filme,Filme e TV,Film,3,false
+150500,a scanner darkly,a scanner darkly,a scanner darkly,Filme,Filme e TV,Film,3,false
+29570,a single man,a single man,a single man,Filme > Música,Filme e TV,Film > Music,3,false
+150509,a sitch in time,a sitch in time,a sitch in time,Filme,Filme e TV,Film,4,false
+111201,abismo de pasión,abismo de pasión,abismo de pasion,TV,Filme e TV,TV,3,false
+283667,Ace Ventura,ace ventura,ace ventura,Filme,Filme e TV,Film,2,false
+158546,ao rufar dos tambores,ao rufar dos tambores,ao rufar dos tambores,Filme,Filme e TV,Film,4,false
+283020,Aventuras de Huck Finn,aventuras de huck finn,aventuras de huck finn,Filme,Filme e TV,Film,4,false
+164927,batman dracula,batman dracula,batman dracula,Filme,Filme e TV,Film,2,false
+24204,boston legal,boston legal,boston legal,TV,Filme e TV,TV,2,false
+284151,Cactus Jack,cactus jack,cactus jack,Filme,Filme e TV,Film,2,false
+408329,Cassino do chacrinha,cassino do chacrinha,cassino do chacrinha,TV,Filme e TV,TV,3,false
+121015,conspiracy theory with jesse ventura,conspiracy theory with jesse ventura,conspiracy theory with jesse ventura,TV,Filme e TV,TV,5,false
+183281,coupe de ville,coupe de ville,coupe de ville,Filme,Filme e TV,Film,3,false
+47882,doida demais,doida demais,doida demais,Filme,Filme e TV,Film,2,false
+284345,Estão Todos Bem,estão todos bem,estao todos bem,Filme,Filme e TV,Film,3,false
+125148,euro trip,euro trip,euro trip,Filme,Filme e TV,Film,2,false
+44846,exploitation,exploitation,exploitation,Cinema,Filme e TV,Cinema,1,false
+195356,fazenda blackwood,fazenda blackwood,fazenda blackwood,Filme,Filme e TV,Film,2,false
+203094,guerreiro da virtude,guerreiro da virtude,guerreiro da virtude,Filme,Filme e TV,Film,3,false
+129441,hércules em nova york,hércules em nova york,hercules em nova york,Filme,Filme e TV,Film,4,false
+283550,Last Man Standing,last man standing,last man standing,Filme,Filme e TV,Film,3,false
+215721,le marginal,le marginal,le marginal,Filme,Filme e TV,Film,2,false
+281706,Legends of Tomorrow,legends of tomorrow,legends of tomorrow,Filme,Filme e TV,Film,3,false
+133292,little bill,little bill,little bill,TV,Filme e TV,TV,2,false
+84228,little fish,little fish,little fish,Filme,Filme e TV,Film,2,false
+84311,love in paris,love in paris,love in paris,Filme,Filme e TV,Film,3,false
+49040,mi amor por ti,mi amor por ti,mi amor por ti,TV,Filme e TV,TV,4,false
+225254,mon oncle,mon oncle,mon oncle,Filme,Filme e TV,Film,2,false
+226397,mulher audaciosa,mulher audaciosa,mulher audaciosa,Filme,Filme e TV,Film,2,false
+64740,my love from the star,my love from the star,my love from the star,TV,Filme e TV,TV,5,false
+283968,O Amor É Cego,o amor é cego,o amor e cego,Filme,Filme e TV,Film,4,false
+64919,o barco do inferno,o barco do inferno,o barco do inferno,Filme,Filme e TV,Film,4,false
+408916,O Batman,o batman,o batman,TV,Filme e TV,TV,2,false
+282168,O Livro da Vida,o livro da vida,o livro da vida,Filme,Filme e TV,Film,4,false
+230228,o picolino,o picolino,o picolino,Filme,Filme e TV,Film,2,false
+231729,os muppets na ilha do tesouro,os muppets na ilha do tesouro,os muppets na ilha do tesouro,Filme,Filme e TV,Film,6,false
+139777,planet terror,planet terror,planet terror,Filme,Filme e TV,Film,2,false
+49546,pronto a vestir,pronto a vestir,pronto a vestir,Filme,Filme e TV,Film,3,false
+242680,rei por acaso,rei por acaso,rei por acaso,Filme,Filme e TV,Film,3,false
+36934,rpc tv foz do iguaçu,rpc tv foz do iguaçu,rpc tv foz do iguacu,TV,Filme e TV,TV,5,false
+88035,shirley valentine,shirley valentine,shirley valentine,Filme,Filme e TV,Film,2,false
+144446,simpsons roasting on an open fire,simpsons roasting on an open fire,simpsons roasting on an open fire,TV,Filme e TV,TV,6,false
+88175,smoke gets in your eyes,smoke gets in your eyes,smoke gets in your eyes,TV,Filme e TV,TV,5,false
+6929,swat kats,swat kats,swat kats,TV,Filme e TV,TV,2,false
+108764,séries infinitas,séries infinitas,series infinitas,Filme,Filme e TV,Film,2,false
+256800,the candidate,the candidate,the candidate,Filme,Filme e TV,Film,2,false
+282391,Tiga,tiga,tiga,Filme,Filme e TV,Film,1,false
+10915,wolverine imortal,wolverine imortal,wolverine imortal,Filme,Filme e TV,Film,2,false
+265072,1914,1914,1914,Ano,História e tempo,Ano,1,false
+265074,1916,1916,1916,Ano,História e tempo,Ano,1,false
+270133,1917 no Brasil,1917 no brasil,1917 no brasil,Ano,História e tempo,Ano,3,false
+265084,1926,1926,1926,Ano,História e tempo,Ano,1,false
+280671,1930s,1930s,1930s,Época,História e tempo,Época,1,false
+270134,1932 na Alemanha,1932 na alemanha,1932 na alemanha,Ano,História e tempo,Ano,3,false
+265095,1937,1937,1937,Ano,História e tempo,Ano,1,false
+265097,1939,1939,1939,Ano,História e tempo,Ano,1,false
+265103,1945,1945,1945,Ano,História e tempo,Ano,1,false
+265115,1957,1957,1957,Ano,História e tempo,Ano,1,false
+265137,1979,1979,1979,Ano,História e tempo,Ano,1,false
+265139,1981,1981,1981,Ano,História e tempo,Ano,1,false
+265147,1989,1989,1989,Ano,História e tempo,Ano,1,false
+265150,1992,1992,1992,Ano,História e tempo,Ano,1,false
+265156,1998,1998,1998,Ano,História e tempo,Ano,1,false
+265179,2021,2021,2021,Ano,História e tempo,Ano,1,false
+265187,2029,2029,2029,Ano,História e tempo,Ano,1,false
+404745,A Escultura Romana,a escultura romana,a escultura romana,Roma,História e tempo,Roma,3,false
+280711,Anos 40,anos 40,anos 40,Época,História e tempo,Época,2,false
+280687,Anos 60,anos 60,anos 60,Época,História e tempo,Época,2,false
+280642,Baixa Idade Média,baixa idade média,baixa idade media,Época,História e tempo,Época,3,false
+404752,Castrum,castrum,castrum,Roma,História e tempo,Roma,1,false
+271602,Colonização,colonização,colonizacao,Colonialismo,História e tempo,Colonialismo,1,false
+271599,Colonização de povoamento,colonização de povoamento,colonizacao de povoamento,Colonialismo,História e tempo,Colonialismo,3,false
+404702,Dominium,dominium,dominium,Roma,História e tempo,Roma,1,false
+56710,exoterra,exoterra,exoterra,Reino,História e tempo,Reino,1,false
+271600,Expansão colonial,expansão colonial,expansao colonial,Colonialismo,História e tempo,Colonialismo,2,false
+404761,História da Roma Antiga,história da roma antiga,historia da roma antiga,Roma,História e tempo,Roma,4,false
+280663,Huascar,huascar,huascar,Época,História e tempo,Época,1,false
+280720,Idade das trevas,idade das trevas,idade das trevas,Época,História e tempo,Época,3,false
+207310,império macedônio,império macedônio,imperio macedonio,Reino,História e tempo,Reino,2,false
+209007,james alexander,james alexander,james alexander,Reino,História e tempo, Reino,2,false
+34848,janapada,janapada,janapada,Reino,História e tempo, Reino,1,false
+310288,Maio,maio,maio,Mês,História e tempo,mês,1,false
+135400,mike hickey,mike hickey,mike hickey,Reino,História e tempo,Reino,2,false
+223936,mike young,mike young,mike young,Reino,História e tempo,Reino,2,false
+404734,Moneta,moneta,moneta,Roma,História e tempo,Roma,1,false
+316677,Noivado,noivado,noivado,Ocasião,História e tempo,ocasião,1,false
+73479,nuttall,nuttall,nuttall,Reino,História e tempo,Reino,1,false
+73516,o fardo do homem branco,o fardo do homem branco,o fardo do homem branco,Colonialismo,História e tempo, Colonialismo,5,false
+104791,parlamento britânico,parlamento britânico,parlamento britanico,Reino,História e tempo,Reino,2,false
+404680,Pinciana,pinciana,pinciana,Roma,História e tempo,Roma,1,false
+404747,Régia,régia,regia,Roma,História e tempo,Roma,1,false
+404679,Soldado romano,soldado romano,soldado romano,Roma,História e tempo,Roma,2,false
+280698,Século 17,século 17,seculo 17,Época,História e tempo,Época,2,false
+280660,Século 19,século 19,seculo 19,Época,História e tempo,Época,2,false
+280646,V ac,v ac,v ac,Época,História e tempo,Época,2,false
+404070,Velha República,velha república,velha republica,República,História e tempo,República,2,false
+404720,Via romana,via romana,via romana,Roma,História e tempo,Roma,2,false
+404743,Via Ápia,via ápia,via apia,Roma,História e tempo,Roma,2,false
+159533,ares extinction agenda,ares extinction agenda,ares extinction agenda,Jogo,Jogo,Jogo,3,false
+113738,armando martinez,armando martinez,armando martinez,Jogo,Jogo,Jogo,2,false
+161369,atari soccer,atari soccer,atari soccer,Jogo,Jogo,Jogo,2,false
+18846,atenas 2004,atenas 2004,atenas 2004,Jogo,Jogo,Jogo,2,false
+167267,blast hornet,blast hornet,blast hornet,Jogo,Jogo,Jogo,2,false
+116984,burning desire,burning desire,burning desire,Jogo,Jogo,Jogo,2,false
+286944,Cacheta,cacheta,cacheta,Jogo,Jogo,Jogo,1,false
+55686,capture the flag,capture the flag,capture the flag,Jogo,Jogo,Jogo,3,false
+93872,castlevania iii,castlevania iii,castlevania iii,Jogo,Jogo,Jogo,2,false
+79406,chikorita,chikorita,chikorita,Jogo,Jogo,Jogo,1,false
+79936,controle do nintendo 64,controle do nintendo 64,controle do nintendo 64,Jogo,Jogo,Jogo,4,false
+287178,Dating sim,dating sim,dating sim,Jogo,Jogo,jogo,2,false
+286986,Democracy,democracy,democracy,Jogo,Jogo,Jogo,1,false
+28103,dynasty warriors 3,dynasty warriors 3,dynasty warriors 3,Jogo,Jogo,Jogo,3,false
+7310,dynasty warriors 6,dynasty warriors 6,dynasty warriors 6,Jogo,Jogo,Jogo,3,false
+125256,experience points,experience points,experience points,Jogo,Jogo,Jogo,2,false
+194975,fallout 3 expansões,fallout 3 expansões,fallout 3 expansoes,Jogo,Jogo,Jogo,3,false
+125561,fatal frame iv,fatal frame iv,fatal frame iv,Jogo,Jogo,Jogo,3,false
+125887,ff10,ff10,ff10,Jogo,Jogo,Jogo,1,false
+7896,girafarig,girafarig,girafarig,Jogo,Jogo,Jogo,1,false
+128404,guitar hero iv,guitar hero iv,guitar hero iv,Jogo,Jogo,Jogo,3,false
+82534,harvest moon 2 gbc,harvest moon 2 gbc,harvest moon 2 gbc,Jogo,Jogo,Jogo,4,false
+205739,hot shots tennis,hot shots tennis,hot shots tennis,Jogo,Jogo,Jogo,3,false
+207357,in the heat of the night,in the heat of the night,in the heat of the night,Jogo,Jogo,Jogo,6,false
+287410,Jogo de aventura,jogo de aventura,jogo de aventura,Jogo,Jogo,jogo,3,false
+287446,LeafGreen,leafgreen,leafgreen,Jogo,Jogo,Jogo,1,false
+215885,lego chess,lego chess,lego chess,Jogo,Jogo,Jogo,2,false
+287047,Lords of Shadow,lords of shadow,lords of shadow,Jogo,Jogo,jogo,3,false
+219743,maila paula machado,maila paula machado,maila paula machado,Jogo,Jogo,Jogo,3,false
+306748,Mega da Virada,mega da virada,mega da virada,Loterias,Jogo,Loterias,3,false
+222540,mega man star force,mega man star force,mega man star force,Jogo,Jogo,Jogo,4,false
+223788,midtown madness,midtown madness,midtown madness,Jogo,Jogo,Jogo,2,false
+286991,Minecraft,minecraft,minecraft,Jogo,Jogo,Jogo,1,false
+136731,nba live 10,nba live 10,nba live 10,Jogo,Jogo,Jogo,3,false
+286887,Need for Speed Undercover,need for speed undercover,need for speed undercover,Jogo,Jogo,jogo,4,false
+86462,plane crazy,plane crazy,plane crazy,Jogo,Jogo,Jogo,2,false
+266575,pokemon heartgold,pokemon heartgold,pokemon heartgold,Jogo,Jogo,Jogo,2,false
+58982,raticate,raticate,raticate,Jogo,Jogo,Jogo,1,false
+142215,rigoberto uran,rigoberto uran,rigoberto uran,Jogo,Jogo,Jogo,2,false
+74817,roserade,roserade,roserade,Jogo,Jogo,Jogo,1,false
+107185,rpg de ação,rpg de ação,rpg de acao,Jogo,Jogo,Jogo,3,false
+4045,salamence,salamence,salamence,Jogo,Jogo,Jogo,1,false
+250471,shining force ii,shining force ii,shining force ii,Jogo,Jogo,Jogo,3,false
+88052,shuppet,shuppet,shuppet,Jogo,Jogo,Jogo,1,false
+4416,silent hill 3,silent hill 3,silent hill 3,Jogo,Jogo,Jogo,3,false
+21557,smi,smi,smi,Jogo,Jogo,Jogo,1,true
+38844,sonic heroes 2,sonic heroes 2,sonic heroes 2,Jogo,Jogo,Jogo,3,false
+108400,stalker clear sky,stalker clear sky,stalker clear sky,Jogo,Jogo,Jogo,3,false
+147509,twewy,twewy,twewy,Jogo,Jogo,Jogo,1,false
+287058,WWE 2K,wwe 2k,wwe 2k,Jogo,Jogo,jogo,2,false
+37231,a biblioteca de babel,a biblioteca de babel,a biblioteca de babel,Livro,Livro,Livro,4,false
+46791,a caixa de papelão,a caixa de papelão,a caixa de papelao,Livro,Livro,Livro,4,false
+150098,a coroa de berilos,a coroa de berilos,a coroa de berilos,Livro,Livro,Livro,4,false
+60188,a estrutura da bolha de sabão,a estrutura da bolha de sabão,a estrutura da bolha de sabao,Livro,Livro,Livro,6,false
+27855,a face amarela,a face amarela,a face amarela,Livro,Livro,Livro,3,false
+60190,a faixa malhada,a faixa malhada,a faixa malhada,Livro,Livro,Livro,3,false
+150316,a liga dos ruivos,a liga dos ruivos,a liga dos ruivos,Livro,Livro,Livro,4,false
+13670,a pequena vendedora de fósforos,a pequena vendedora de fósforos,a pequena vendedora de fosforos,Livro,Livro,Livro,5,false
+111153,abbey grange,abbey grange,abbey grange,Livro,Livro,Livro,2,false
+158345,antônio chimango,antônio chimango,antonio chimango,Livro > Pessoa > Produto,Livro,Livro > Person > Produto,2,false
+168433,bones of contention,bones of contention,bones of contention,Livro,Livro,Livro,3,false
+21682,cavaleiros da távola redonda,cavaleiros da távola redonda,cavaleiros da tavola redonda,Livro,Livro,Livro,4,false
+180383,com o vaqueiro mariano,com o vaqueiro mariano,com o vaqueiro mariano,Livro,Livro,Livro,4,false
+186184,der sandmann,der sandmann,der sandmann,Livro,Livro,Livro,2,false
+42199,fabulista,fabulista,fabulista,Livro,Livro,Livro,1,false
+34619,fabulário,fabulário,fabulario,Livro,Livro,Livro,1,false
+4378,fábula,fábula,fabula,Livro,Livro,Livro,1,false
+131454,joão de ferro,joão de ferro,joao de ferro,Livro,Livro,Livro,3,false
+219561,mademoiselle o,mademoiselle o,mademoiselle o,Livro,Livro,Livro,2,false
+221685,maré negra,maré negra,mare negra,Livro > Petróleo > Produto,Livro,Livro > Petróleo > Produto,2,false
+229908,o construtor de norwood,o construtor de norwood,o construtor de norwood,Livro,Livro,Livro,4,false
+73497,o coração revelador,o coração revelador,o coracao revelador,Livro,Livro,Livro,3,false
+104075,o corcunda,o corcunda,o corcunda,Livro,Livro,Livro,2,false
+230012,o flautista mágico,o flautista mágico,o flautista magico,Livro,Livro,Livro,3,false
+43056,o grande inquisidor,o grande inquisidor,o grande inquisidor,Livro,Livro,Livro,3,false
+104107,o homem de areia,o homem de areia,o homem de areia,Livro,Livro,Livro,4,false
+230076,o jardim do paraíso,o jardim do paraíso,o jardim do paraiso,Livro,Livro,Livro,4,false
+85631,o jogador desaparecido,o jogador desaparecido,o jogador desaparecido,Livro,Livro,Livro,3,false
+137519,o ladrão honesto,o ladrão honesto,o ladrao honesto,Livro,Livro,Livro,3,false
+12112,o lago dos cisnes,o lago dos cisnes,o lago dos cisnes,Livro,Livro,Livro,4,false
+26117,o lobo e os sete cabritinhos,o lobo e os sete cabritinhos,o lobo e os sete cabritinhos,Livro,Livro,Livro,6,false
+104161,o problema final,o problema final,o problema final,Livro,Livro,Livro,3,false
+230266,o príncipe sapo,o príncipe sapo,o principe sapo,Livro,Livro,Livro,3,false
+73545,o ritual musgrave,o ritual musgrave,o ritual musgrave,Livro,Livro,Livro,3,false
+85671,o rouxinol e o imperador da china,o rouxinol e o imperador da china,o rouxinol e o imperador da china,Livro,Livro,Livro,7,false
+45824,oito contos de amor,oito contos de amor,oito contos de amor,Livro,Livro,Livro,4,false
+65061,os dançarinos,os dançarinos,os dancarinos,Livro,Livro,Livro,2,false
+65068,os músicos de bremen,os músicos de bremen,os musicos de bremen,Livro,Livro,Livro,4,false
+231779,os três cabelos de ouro do diabo,os três cabelos de ouro do diabo,os tres cabelos de ouro do diabo,Livro,Livro,Livro,7,false
+234740,pedro negro,pedro negro,pedro negro,Livro,Livro,Livro,2,false
+4215,soldadinho de chumbo,soldadinho de chumbo,soldadinho de chumbo,Livro,Livro,Livro,3,false
+7066,swan lake,swan lake,swan lake,Livro,Livro,Livro,2,false
+9558,sítio do picapau amarelo,sítio do picapau amarelo,sitio do picapau amarelo,Livro > Produto > TV,Livro,Livro > Produto > TV,4,false
+35466,tell tale heart,tell tale heart,tell tale heart,Livro,Livro,Livro,3,false
+54418,teoria quântica,teoria quântica,teoria quantica,Livro > Mecânica > Produto,Livro,Livro > Mecânica > Produto,2,false
+41106,the lottery,the lottery,the lottery,Livro,Livro,Livro,2,false
+109647,tudo é eventual,tudo é eventual,tudo e eventual,Livro,Livro,Livro,3,false
+259861,um artista da fome,um artista da fome,um artista da fome,Livro,Livro,Livro,4,false
+35548,venha ver o pôr do sol,venha ver o pôr do sol,venha ver o por do sol,Livro,Livro,Livro,6,false
+290726,Aeroporto de araraquara,aeroporto de araraquara,aeroporto de araraquara,Local,Local,Local,3,false
+5117,araponga,araponga,araponga,Local > Cidade,Local,Local > Cidade,1,false
+159668,arinthod,arinthod,arinthod,Local,Local,Local,1,false
+160811,asnières-sur-blour,asnières-sur-blour,asnieres-sur-blour,Local,Local,Local,1,false
+288255,Bairro Alecrim,bairro alecrim,bairro alecrim,Local,Local,Local,2,false
+300204,Bairro Feu Rosa,bairro feu rosa,bairro feu rosa,Local > Bairro,Local,Local > Bairro,3,false
+302963,Birigui,birigui,birigui,Local > Cidade,Local,Local > City,1,false
+301398,Branquinha,branquinha,branquinha,Local > Cidade,Local,Local > City,1,false
+173476,carapajó (cametá),carapajó (cametá),carapajo (cameta),Local > Cidade,Local,Local > Cidade,2,false
+175985,cdd rochdalle,cdd rochdalle,cdd rochdalle,Local,Local,Local,2,false
+297851,Conjunto Habitacional Ana Jacinta,conjunto habitacional ana jacinta,conjunto habitacional ana jacinta,Local,Local,Local,4,false
+95402,crooks,crooks,crooks,Local,Local,Local,1,false
+299590,De Land,de land,de land,Local,Local,Local,2,false
+44656,denderleeuw,denderleeuw,denderleeuw,Local > Cidade,Local,Local > City,1,false
+70131,edifício fundação politécnica,edifício fundação politécnica,edificio fundacao politecnica,Local,Local,Local,3,false
+70135,edifício metropolitan center,edifício metropolitan center,edificio metropolitan center,Local,Local,Local,3,false
+189736,edifício são luiz plaza,edifício são luiz plaza,edificio sao luiz plaza,Local,Local,Local,4,false
+80870,edifício viadutos,edifício viadutos,edificio viadutos,Local,Local,Local,2,false
+125064,estádio palestra itália,estádio palestra itália,estadio palestra italia,Local > Estádio,Local,Local > Estádio,3,false
+126752,free park shopping,free park shopping,free park shopping,Local,Local,Local,3,false
+298571,Givaudan do Brasil Ltda,givaudan do brasil ltda,givaudan do brasil ltda,Local,Local,Local,4,false
+202299,granjas do bosque,granjas do bosque,granjas do bosque,Local > Bairro,Local,Local > Bairro,3,false
+128812,helsingør,helsingør,helsingør,Local,Local,Local,1,false
+129287,hospital infantil são lucas,hospital infantil são lucas,hospital infantil sao lucas,Local > Hospital,Local,Local > Hospital,4,false
+303684,Ivoti,ivoti,ivoti,Local > Cidade,Local,Local > City,1,false
+299833,Jardim Ipanema,jardim ipanema,jardim ipanema,Local,Local,Local,2,false
+100361,jardim santa marta iii,jardim santa marta iii,jardim santa marta iii,Local > Bairro,Local,Local > Bairro,4,false
+288892,Jardim Vista Alegre,jardim vista alegre,jardim vista alegre,Local,Local,Local,3,false
+301161,Juarina,juarina,juarina,Local > Cidade,Local,Local > City,1,false
+304603,Kreuznach,kreuznach,kreuznach,Local > Cidade,Local,Local > City,1,false
+132378,la couronne,la couronne,la couronne,Local,Local,Local,2,false
+133442,lomonosov,lomonosov,lomonosov,Local > Cidade,Local,Local > City,1,false
+220464,maracineni,maracineni,maracineni,Local,Local,Local,1,false
+296777,Miranda do Douro,miranda do douro,miranda do douro,Local,Local,Local,3,false
+226376,muhos,muhos,muhos,Local > Cidade,Local,Local > City,1,false
+305572,Museu Pierre Chalita,museu pierre chalita,museu pierre chalita,Local > Museu,Local,Local > Museu,3,false
+289777,Parque Amazonas,parque amazonas,parque amazonas,Local,Local,Local,2,false
+235683,pescopennataro,pescopennataro,pescopennataro,Local,Local,Local,1,false
+59089,rhyolite,rhyolite,rhyolite,Local,Local,Local,1,false
+244677,rio mantaro,rio mantaro,rio mantaro,Local > Rio,Local,Local > Rio,2,false
+305089,Sandwich do sul,sandwich do sul,sandwich do sul,Local > Ilha,Local,Local > Ilha,3,false
+143597,sardara,sardara,sardara,Local,Local,Local,1,false
+305381,Serra de sintra,serra de sintra,serra de sintra,Local > Montanha,Local,Local > Montanha,3,false
+256461,terminal integrado da caxangá,terminal integrado da caxangá,terminal integrado da caxanga,Local > Estação,Local,Local > Estação,4,false
+257416,theed,theed,theed,Local,Local,Local,1,false
+75921,tomaszów mazowiecki,tomaszów mazowiecki,tomaszow mazowiecki,Local,Local,Local,2,false
+296351,Vila Feital,vila feital,vila feital,Local,Local,Local,2,false
+292208,Vila Nova Santana,vila nova santana,vila nova santana,Local,Local,Local,3,false
+261791,vilasantar,vilasantar,vilasantar,Local,Local,Local,1,false
+89705,yame,yame,yame,Local,Local,Local,1,false
+280378,Agro Canal,agro canal,agro canal,Emissora de TV,Mídia,Emissora de TV,2,false
+153744,ahtv,ahtv,ahtv,Emissora de TV,Mídia,Emissora de TV,1,false
+280453,Arte 1,arte 1,arte 1,Emissora de TV,Mídia,Emissora de TV,2,false
+166118,bet jams,bet jams,bet jams,Emissora de TV,Mídia,Emissora de TV,2,false
+279557,Brasil Radio,brasil radio,brasil radio,Emissora de Rádio,Mídia,Emissora de Rádio,2,false
+16973,canoe,canoe,canoe,Website,Mídia,Website,1,false
+118457,cartoon network portugal,cartoon network portugal,cartoon network portugal,Emissora de TV,Mídia,Emissora de TV,3,false
+279885,Comunitária FM,comunitária fm,comunitaria fm,Emissora de Rádio,Mídia,Emissora de Rádio,2,false
+182970,correio amazonense,correio amazonense,correio amazonense,Jornal,Mídia,Jornal,2,false
+47830,deportivo 18 de marzo,deportivo 18 de marzo,deportivo 18 de marzo,Emissora de TV,Mídia,Emissora de TV,4,false
+122619,dia no parque,dia no parque,dia no parque,Emissora de TV,Mídia,Emissora de TV,3,false
+404149,Diário da república,diário da república,diario da republica,Revista,Mídia,Revista,3,false
+187649,diário de mogi,diário de mogi,diario de mogi,Jornal,Mídia,Jornal,3,false
+404282,El Observador,el observador,el observador,Revista,Mídia,Revista,2,false
+193269,estação quitaúna (cptm),estação quitaúna (cptm),estacao quitauna (cptm),Emissora de Rádio,Mídia,Emissora de Rádio,3,false
+280127,FX Brasil,fx brasil,fx brasil,Emissora de TV,Mídia,Emissora de TV,2,false
+18281,gazeta do sul,gazeta do sul,gazeta do sul,Jornal,Mídia,Jornal,3,false
+63802,jornal tododia,jornal tododia,jornal tododia,Jornal,Mídia,Jornal,2,false
+4002,matérias,matérias,materias,Jornal,Mídia,Jornal,1,false
+226312,mtv classic,mtv classic,mtv classic,Emissora de TV,Mídia,Emissora de TV,2,false
+136198,mtv uk,mtv uk,mtv uk,Emissora de TV,Mídia,Emissora de TV,2,false
+229187,nordeste notícias,nordeste notícias,nordeste noticias,Emissora de TV,Mídia,Emissora de TV,2,false
+287545,O Esporte,o esporte,o esporte,Jornal,Mídia,Jornal,2,false
+412200,O Gol,o gol,o gol,Website,Mídia,Website,2,false
+141576,rede ngt,rede ngt,rede ngt,Emissora de TV,Mídia,Emissora de TV,2,false
+106710,revista o mensageiro,revista o mensageiro,revista o mensageiro,Revista,Mídia,Revista,3,false
+404112,Revista Viração,revista viração,revista viracao,Revista,Mídia,Revista,2,false
+142981,rádio alfa fm,rádio alfa fm,radio alfa fm,Emissora de Rádio,Mídia,Emissora de Rádio,3,false
+279807,Rádio Correio,rádio correio,radio correio,Emissora de Rádio,Mídia,Emissora de Rádio,2,false
+279904,Rádio gaúcha,rádio gaúcha,radio gaucha,Emissora de Rádio,Mídia,Emissora de Rádio,2,false
+246662,rádio globo uberlândia,rádio globo uberlândia,radio globo uberlandia,Emissora de Rádio,Mídia,Emissora de Rádio,3,false
+279721,Rádio Itatiaia,rádio itatiaia,radio itatiaia,Emissora de Rádio,Mídia,Emissora de Rádio,2,false
+279629,Rádio Jornal,rádio jornal,radio jornal,Emissora de Rádio,Mídia,Emissora de Rádio,2,false
+143299,san bernabé,san bernabé,san bernabe,Emissora de TV,Mídia,Emissora de TV,2,false
+251272,sitio eletrônico,sitio eletrônico,sitio eletronico,Website,Mídia,Website,2,false
+404126,Slate,slate,slate,Revista,Mídia,Revista,1,false
+279835,Sociedade FM,sociedade fm,sociedade fm,Emissora de Rádio,Mídia,Emissora de Rádio,2,false
+88306,speed channel,speed channel,speed channel,Emissora de TV,Mídia,Emissora de TV,2,false
+21569,sítio eletrônico,sítio eletrônico,sitio eletronico,Website,Mídia,Website,2,false
+404135,Time 100,time 100,time 100,Revista,Mídia,Revista,2,false
+404173,Tv 7 dias,tv 7 dias,tv 7 dias,Revista,Mídia,Revista,3,false
+259282,tv alepe,tv alepe,tv alepe,Emissora de TV,Mídia,Emissora de TV,2,false
+280150,TV Anhanguera Rio Verde,tv anhanguera rio verde,tv anhanguera rio verde,Emissora de TV,Mídia,Emissora de TV,4,false
+259309,tv catarinense,tv catarinense,tv catarinense,Emissora de TV,Mídia,Emissora de TV,2,false
+280356,TV Ponta Verde,tv ponta verde,tv ponta verde,Emissora de TV,Mídia,Emissora de TV,3,false
+259374,tv record tocantins,tv record tocantins,tv record tocantins,Emissora de TV,Mídia,Emissora de TV,3,false
+109706,tv vilhena,tv vilhena,tv vilhena,Emissora de TV,Mídia,Emissora de TV,2,false
+109707,tv5monde,tv5monde,tv5monde,Emissora de TV,Mídia,Emissora de TV,1,false
+15049,vale paraibano,vale paraibano,vale paraibano,Revista,Mídia,Revista,2,false
+279942,Zoomoo,zoomoo,zoomoo,Emissora de TV,Mídia,Emissora de TV,1,false
+149660,1919 eternal,1919 eternal,1919 eternal,Música,Música,Music,2,false
+112736,american girls,american girls,american girls,Música,Música,Music,2,false
+314860,American Woman,american woman,american woman,Música,Música,Music,2,false
+158548,ao vivo em atlântida,ao vivo em atlântida,ao vivo em atlantida,Música,Música,Music,4,false
+162841,bajo otra luz,bajo otra luz,bajo otra luz,Música,Música,Music,3,false
+314987,Be not nobody,be not nobody,be not nobody,Música,Música,Music,3,false
+166997,birds of pray,birds of pray,birds of pray,Música,Música,Music,3,false
+69551,copo na mão,copo na mão,copo na mao,Música,Música,Music,3,false
+184345,cássia rock eller,cássia rock eller,cassia rock eller,Música,Música,Music,3,false
+41979,darkest hour,darkest hour,darkest hour,Música,Música,Music,2,false
+266647,efecto secundario,efecto secundario,efecto secundario,Música,Música,Music,2,false
+124307,endless wire,endless wire,endless wire,Música,Música,Music,2,false
+56599,era uma vez nacional,era uma vez nacional,era uma vez nacional,Música,Música,Music,4,false
+39865,estante da vida,estante da vida,estante da vida,Música,Música,Music,3,false
+97224,eu acho que pirei,eu acho que pirei,eu acho que pirei,Música,Música,Music,4,false
+97284,everyday of my life,everyday of my life,everyday of my life,Música,Música,Music,4,false
+194381,explode coração nacional,explode coração nacional,explode coracao nacional,Música,Música,Music,3,false
+126020,first impressions of earth,first impressions of earth,first impressions of earth,Música,Música,Music,4,false
+199008,front by front,front by front,front by front,Música,Música,Music,3,false
+314157,Golpe de mestre,golpe de mestre,golpe de mestre,Música,Música,Music,3,false
+203210,guilty all the same,guilty all the same,guilty all the same,Música,Música,Music,4,false
+312650,Help Yourself,help yourself,help yourself,Música,Música,Music,2,false
+82647,hey there delilah,hey there delilah,hey there delilah,Música,Música,Music,3,false
+19413,honey honey,honey honey,honey honey,Música,Música,Music,2,false
+314248,Last Goodbye,last goodbye,last goodbye,Música,Música,Music,2,false
+38281,lego house,lego house,lego house,Música,Música,Music,2,false
+316172,Live Your Life,live your life,live your life,Música,Música,Music,3,false
+314269,Lonely Boy,lonely boy,lonely boy,Música,Música,Music,2,false
+102413,marcelo alvarez,marcelo alvarez,marcelo alvarez,Música,Música,Music,2,false
+36625,monstercat,monstercat,monstercat,Música > Gravadora,Música,Music > Gravadora,1,false
+227602,música popular caiçara – ao vivo,música popular caiçara – ao vivo,musica popular caicara – ao vivo,Música,Música,Music,6,false
+230047,o homem que sou,o homem que sou,o homem que sou,Música,Música,Music,4,false
+104191,o sol nascerá,o sol nascerá,o sol nascera,Música,Música,Music,3,false
+311332,On Stage,on stage,on stage,Música,Música,Music,2,false
+45864,out of nowhere,out of nowhere,out of nowhere,Música,Música,Music,3,false
+311615,Planeta Água,planeta água,planeta agua,Música,Música,Music,2,false
+141335,rancho carnavalesco,rancho carnavalesco,rancho carnavalesco,Música > Evento,Música,Music > Evento,2,false
+267690,regresa a mi,regresa a mi,regresa a mi,Música,Música,Music,3,false
+312859,Santa Geração,santa geração,santa geracao,Música,Música,Music,2,false
+247935,santa loucura,santa loucura,santa loucura,Música,Música,Music,2,false
+313359,Sementes de Amor,sementes de amor,sementes de amor,Música,Música,Music,3,false
+312180,Som de Adoradores,som de adoradores,som de adoradores,Música,Música,Music,3,false
+314575,Tea party,tea party,tea party,Música,Música,Music,2,false
+256846,the cross of changes,the cross of changes,the cross of changes,Música,Música,Music,4,false
+311708,The Duets,the duets,the duets,Música,Música,Music,2,false
+256984,the heavy,the heavy,the heavy,Música,Música,Music,2,false
+66625,the marcels,the marcels,the marcels,Música,Música,Music,2,false
+312576,To Heart,to heart,to heart,Música,Música,Music,2,false
+50177,trompete piccolo,trompete piccolo,trompete piccolo,Música,Música,Music,2,false
+50230,uns dias ao vivo,uns dias ao vivo,uns dias ao vivo,Música,Música,Music,4,false
+316792,2 milhões,2 milhões,2 milhoes,Organização,Organização,Organisation,2,false
+316831,Academia do bacalhau,academia do bacalhau,academia do bacalhau,Organização,Organização,Organisation,3,false
+280774,Acadêmicos da Rocinha,acadêmicos da rocinha,academicos da rocinha,Escola de Samba,Organização,Escola de Samba,3,false
+111857,agecopa,agecopa,agecopa,Instituição,Organização,Instituição,1,false
+286792,APADA,apada,apada,Instituição,Organização,Instituição,1,false
+114083,associação brasileira de psicólogos espíritas,associação brasileira de psicólogos espíritas,associacao brasileira de psicologos espiritas,Instituição,Organização,Instituição,5,false
+280833,Bambas do Ritmo,bambas do ritmo,bambas do ritmo,Escola de Samba,Organização,Escola de Samba,3,false
+163168,banco de pagamentos internacionais,banco de pagamentos internacionais,banco de pagamentos internacionais,Instituição,Organização,Instituição,4,false
+165345,beijing foreign studies university,beijing foreign studies university,beijing foreign studies university,Instituição,Organização,Instituição,4,false
+79221,cebrap,cebrap,cebrap,Instituição,Organização,Instituição,1,false
+316872,Checkmat,checkmat,checkmat,Organização,Organização,Organizações,1,false
+120487,comissão de ética pública,comissão de ética pública,comissao de etica publica,Instituição,Organização,Instituição,4,false
+270435,Comissão permanente,comissão permanente,comissao permanente,Assembleia,Organização,Assembleia,2,false
+95143,convenção geral das assembleias de deus no brasil,convenção geral das assembleias de deus no brasil,convencao geral das assembleias de deus no brasil,Assembleia,Organização,Assembleia,8,false
+280852,da Cidade de Deus,da cidade de deus,da cidade de deus,Escola de Samba,Organização,Escola de Samba,4,false
+4595,defensoria pública da união,defensoria pública da união,defensoria publica da uniao,Instituição,Organização,Instituição,4,false
+185771,defesa civil do estado de são paulo,defesa civil do estado de são paulo,defesa civil do estado de sao paulo,Instituição,Organização,Instituição,7,false
+280786,Deixa falar,deixa falar,deixa falar,Escola de Samba,Organização,Escola de Samba,2,false
+195588,federação mineira de jiu-jitsu,federação mineira de jiu-jitsu,federacao mineira de jiu-jitsu,Organização,Organização,Organizações,4,false
+316846,Federação Portuguesa de Ténis,federação portuguesa de ténis,federacao portuguesa de tenis,Organização,Organização,Organisation,4,false
+280780,Gaviões da fiel,gaviões da fiel,gavioes da fiel,Escola de Samba,Organização,Escola de Samba,3,false
+280815,Gigante do Samba,gigante do samba,gigante do samba,Escola de Samba,Organização,Escola de Samba,3,false
+26699,iead,iead,iead,Assembleia,Organização,Assembleia,1,false
+6271,inquisição,inquisição,inquisicao,Instituição,Organização,Instituição,1,false
+207759,instituto de previdência do estado do rio de janeiro,instituto de previdência do estado do rio de janeiro,instituto de previdencia do estado do rio de janeiro,Instituição,Organização,Instituição,9,false
+130005,instituto nacional do câncer,instituto nacional do câncer,instituto nacional do cancer,Instituição,Organização,Instituição,4,false
+207882,instituto superior de estudos brasileiros,instituto superior de estudos brasileiros,instituto superior de estudos brasileiros,Instituição,Organização,Instituição,5,false
+71844,jaime ramos,jaime ramos,jaime ramos,Assembleia,Organização,Assembleia,2,false
+130947,jocum brasil,jocum brasil,jocum brasil,Instituição,Organização,Instituição,2,false
+215689,lbjj,lbjj,lbjj,Organização,Organização,Organizações,1,false
+49066,ministro de minas e energia,ministro de minas e energia,ministro de minas e energia,Instituição,Organização,Instituição,5,false
+73047,ministério público do estado do espírito santo,ministério público do estado do espírito santo,ministerio publico do estado do espirito santo,Instituição,Organização,Instituição,7,false
+316857,Mister Brasil,mister brasil,mister brasil,Organização,Organização,Organisation,2,false
+316822,Movimento Brasil Livre,movimento brasil livre,movimento brasil livre,Organização,Organização,Organisation,3,false
+280796,Mãos Entrelaçadas,mãos entrelaçadas,maos entrelacadas,Escola de Samba,Organização,Escola de Samba,2,false
+230506,observatório real de greenwich,observatório real de greenwich,observatorio real de greenwich,Instituição,Organização,Instituição,4,false
+286754,Oca Brasil,oca brasil,oca brasil,Instituição,Organização,Instituição,2,false
+275983,Ordem dos musicos,ordem dos musicos,ordem dos musicos,Conselho,Organização,Conselho,3,false
+104439,organização sem fins lucrativos,organização sem fins lucrativos,organizacao sem fins lucrativos,Instituição,Organização,Instituição,4,false
+239388,programa alimentar mundial,programa alimentar mundial,programa alimentar mundial,Organização,Organização, Organizações,3,false
+106383,real academia galega,real academia galega,real academia galega,Instituição,Organização,Instituição,3,false
+249226,secretaria de segurança pública do amazonas,secretaria de segurança pública do amazonas,secretaria de seguranca publica do amazonas,Instituição,Organização,Instituição,6,false
+286788,Senadores,senadores,senadores,Instituição,Organização,Instituição,1,false
+88207,soka gakkai internacional,soka gakkai internacional,soka gakkai internacional,Organização,Organização, Organizações,3,false
+280849,Torcida Jovem,torcida jovem,torcida jovem,Escola de Samba,Organização,Escola de Samba,2,false
+147273,tribunal de contas dos municípios do estado da bahia,tribunal de contas dos municípios do estado da bahia,tribunal de contas dos municipios do estado da bahia,Instituição,Organização,Instituição,9,false
+280762,Unidos do Vale Encantado,unidos do vale encantado,unidos do vale encantado,Escola de Samba,Organização,Escola de Samba,4,false
+280821,União da Vila Albertina,união da vila albertina,uniao da vila albertina,Escola de Samba,Organização,Escola de Samba,4,false
+280755,Vai Quem Quer,vai quem quer,vai quem quer,Escola de Samba,Organização,Escola de Samba,3,false
+316832,World Surf League,world surf league,world surf league,Organização,Organização,Organisation,3,false
+409182,Ainda Gosto Dela,ainda gosto dela,ainda gosto dela,Tipo,Outro,Tipo,3,false
+160937,assembleia de atenas,assembleia de atenas,assembleia de atenas,Democracia,Outro, Democracia,3,false
+162570,bacilo calmette-guérin,bacilo calmette-guérin,bacilo calmette-guerin,Vacina,Outro,Vacina,2,false
+409138,Break Stuff,break stuff,break stuff,Tipo,Outro,Tipo,2,false
+171152,caixa de esquadria,caixa de esquadria,caixa de esquadria,Ferramenta,Outro,Ferramenta,3,false
+172403,campos rupestres,campos rupestres,campos rupestres,Vegetação,Outro, Vegetação,2,false
+173257,capacitor de tântalo,capacitor de tântalo,capacitor de tantalo,Componentes,Outro,Componentes,3,false
+404772,Central de atendimento,central de atendimento,central de atendimento,SAC,Outro,SAC,3,false
+316765,Clarissas Capuchinhas,clarissas capuchinhas,clarissas capuchinhas,Ordem,Outro,Ordem,2,false
+181355,congregação de santa cruz,congregação de santa cruz,congregacao de santa cruz,Ordem,Outro,Ordem,4,false
+276275,Datas comemorativas do Brasil,datas comemorativas do brasil,datas comemorativas do brasil,Data Comemorativa,Outro,Data Comemorativa,4,false
+317317,Digestor,digestor,digestor,Papel,Outro,Papel,1,false
+409235,Electra Heart,electra heart,electra heart,Tipo,Outro,Tipo,2,false
+280883,Espada,espada,espada,Espada,Outro,Espada,1,false
+28129,espelho de ojesed,espelho de ojesed,espelho de ojesed,Espelho,Outro,Espelho,3,false
+194320,exchange traded funds,exchange traded funds,exchange traded funds,Investimentos,Outro, Investimentos,3,false
+306766,Fase da lua,fase da lua,fase da lua,Luas,Outro,Luas,3,false
+310281,Flats,flats,flats,Meio,Outro,Meio,1,false
+285315,Gases de efeito estufa,gases de efeito estufa,gases de efeito estufa,Gás,Outro,Gás,4,false
+205457,homem grávido,homem grávido,homem gravido,Gravidez,Outro, Gravidez,2,false
+206540,ig farben,ig farben,ig farben,Nazismo,Outro, Nazismo,2,false
+100565,johann gutenberg,johann gutenberg,johann gutenberg,Imprensa,Outro, Imprensa,2,false
+216822,linea nigra,linea nigra,linea nigra,Gravidez,Outro, Gravidez,2,false
+218041,los pepes,los pepes,los pepes,Terrorismo,Outro, Terrorismo,2,false
+285204,Matroska,matroska,matroska,Formato,Outro,Formato,1,false
+310491,Mineração a céu aberto,mineração a céu aberto,mineracao a ceu aberto,Mineração,Outro,Mineração,4,false
+225831,morte precoce,morte precoce,morte precoce,Infância,Outro, Infância,2,false
+38430,motor a jato,motor a jato,motor a jato,Motorização,Outro,Motorização,3,false
+64683,motor assíncrono,motor assíncrono,motor assincrono,Motorização,Outro,Motorização,2,false
+310762,Motor de dois tempos,motor de dois tempos,motor de dois tempos,Motorredutor,Outro,Motorredutor,4,false
+73158,motor v2,motor v2,motor v2,Motorização,Outro,Motorização,2,false
+317452,Mullet,mullet,mullet,Penteado,Outro,Penteado,1,false
+408956,Mundo Pequenino,mundo pequenino,mundo pequenino,Tipo,Outro,Tipo,2,false
+409165,My Everything,my everything,my everything,Tipo,Outro,Tipo,2,false
+137989,ordem nacional do cruzeiro do sul,ordem nacional do cruzeiro do sul,ordem nacional do cruzeiro do sul,Ordem,Outro,Ordem,6,false
+317322,Parasita,parasita,parasita,Parasitologia,Outro,Parasitologia,1,false
+409427,Punk,punk,punk,Tribo,Outro,Tribo,1,false
+409257,Quarto De Bebe Completo,quarto de bebe completo,quarto de bebe completo,Tipo de Quarto,Outro,Tipo de Quarto,4,false
+317316,Reciclagem de papel,reciclagem de papel,reciclagem de papel,Papel,Outro,Papel,3,false
+277134,Replicação do DNA,replicação do dna,replicacao do dna,DNA,Outro,DNA,3,false
+270710,Sarcina,sarcina,sarcina,Bactéria,Outro,Bacterias,1,false
+256426,terceira grande guerra ninja,terceira grande guerra ninja,terceira grande guerra ninja,Naruto,Outro, Naruto,4,false
+273402,Terraços,terraços,terracos,Cômodo,Outro,Cômodo,1,false
+256550,terrorismo doméstico,terrorismo doméstico,terrorismo domestico,Terrorismo,Outro, Terrorismo,2,false
+277113,Treo,treo,treo,Dispositivo,Outro,Dispositivo,1,false
+409508,TV cabo,tv cabo,tv cabo,TV a Cabo,Outro,TV a Cabo,2,false
+409020,Um Lugar para 2,um lugar para 2,um lugar para 2,Tipo,Outro,Tipo,4,false
+24655,zvezda,zvezda,zvezda,Componentes,Outro,Componentes,1,false
+409001,Zé Ramalho da Paraíba,zé ramalho da paraíba,ze ramalho da paraiba,Tipo,Outro,Tipo,4,false
+269022,Água desmineralizada,água desmineralizada,agua desmineralizada,Água,Outro,Água,2,false
+150301,a lenda da branca de neve,a lenda da branca de neve,a lenda da branca de neve,Personagem,Personagem,Personagem,6,false
+157626,ano natsu de matteru,ano natsu de matteru,ano natsu de matteru,Personagem,Personagem,Personagem,4,false
+68015,bakura ryou,bakura ryou,bakura ryou,Personagem,Personagem,Personagem,2,false
+115679,bestiarius,bestiarius,bestiarius,Personagem,Personagem,Personagem,1,false
+31754,bibidi,bibidi,bibidi,Personagem,Personagem,Personagem,1,false
+10684,boogiepop phantom,boogiepop phantom,boogiepop phantom,Personagem,Personagem,Personagem,2,false
+116562,botão de ouro,botão de ouro,botao de ouro,Personagem,Personagem,Personagem,3,false
+329822,Bruxa Boa do Sul,bruxa boa do sul,bruxa boa do sul,Personagem,Personagem,Personagem,4,false
+172159,cammy white,cammy white,cammy white,Personagem,Personagem,Personagem,2,false
+173363,capitã phasma,capitã phasma,capita phasma,Personagem,Personagem,Personagem,2,false
+118089,capitão bretanha,capitão bretanha,capitao bretanha,Personagem,Personagem,Personagem,2,false
+79229,cedrico,cedrico,cedrico,Personagem,Personagem,Personagem,1,false
+178812,claire kyle,claire kyle,claire kyle,Personagem,Personagem,Personagem,2,false
+94702,coisinha de jesus,coisinha de jesus,coisinha de jesus,Personagem,Personagem,Personagem,3,false
+95057,conselheiro acácio,conselheiro acácio,conselheiro acacio,Personagem,Personagem,Personagem,2,false
+329976,Darth Vader,darth vader,darth vader,Personagem,Personagem,Personagem,2,false
+122311,dee jay,dee jay,dee jay,Personagem,Personagem,Personagem,2,false
+330016,Dona Florinda,dona florinda,dona florinda,Personagem,Personagem,Personagem,2,false
+124144,elsa (frozen),elsa (frozen),elsa (frozen),Personagem,Personagem,Personagem,2,false
+191950,ernie macmillan,ernie macmillan,ernie macmillan,Personagem,Personagem,Personagem,2,false
+329872,Eyeshield 21,eyeshield 21,eyeshield 21,Personagem,Personagem,Personagem,2,false
+195114,fantasy adventure,fantasy adventure,fantasy adventure,Personagem,Personagem,Personagem,2,false
+329956,Florzinha,florzinha,florzinha,Personagem,Personagem,Personagem,1,false
+28185,gepeto,gepeto,gepeto,Personagem,Personagem,Personagem,1,false
+201048,ghost hound,ghost hound,ghost hound,Personagem,Personagem,Personagem,2,false
+329874,Gina Weasley,gina weasley,gina weasley,Personagem,Personagem,Personagem,2,false
+99150,haohmaru,haohmaru,haohmaru,Personagem,Personagem,Personagem,1,false
+71431,henrique fausto,henrique fausto,henrique fausto,Personagem,Personagem,Personagem,2,false
+99633,hylian,hylian,hylian,Personagem,Personagem,Personagem,1,false
+45253,itazura na kiss,itazura na kiss,itazura na kiss,Personagem,Personagem,Personagem,3,false
+329878,Kilari,kilari,kilari,Personagem,Personagem,Personagem,1,false
+218965,luxord,luxord,luxord,Personagem,Personagem,Personagem,1,false
+102188,m bison,m bison,m bison,Personagem,Personagem,Personagem,2,false
+219775,maison ikkoku,maison ikkoku,maison ikkoku,Personagem,Personagem,Personagem,2,false
+135615,miss marte,miss marte,miss marte,Personagem,Personagem,Personagem,2,false
+10416,moltres,moltres,moltres,Personagem,Personagem,Personagem,1,false
+227646,naamá,naamá,naama,Personagem,Personagem,Personagem,1,false
+73434,norma bates,norma bates,norma bates,Personagem,Personagem,Personagem,2,false
+329884,O Aranha,o aranha,o aranha,Personagem,Personagem,Personagem,2,false
+104180,o rival,o rival,o rival,Personagem,Personagem,Personagem,2,false
+329701,Peixonauta,peixonauta,peixonauta,Personagem,Personagem,Personagem,1,false
+235925,philip banks,philip banks,philip banks,Personagem,Personagem,Personagem,2,false
+53831,remus lupin,remus lupin,remus lupin,Personagem,Personagem,Personagem,2,false
+329844,Salamon,salamon,salamon,Personagem,Personagem,Personagem,1,false
+247657,sandland,sandland,sandland,Personagem,Personagem,Personagem,1,false
+88144,skull man,skull man,skull man,Personagem,Personagem,Personagem,2,false
+59727,the lost canvas gaiden,the lost canvas gaiden,the lost canvas gaiden,Personagem,Personagem,Personagem,4,false
+260837,vampiro armand,vampiro armand,vampiro armand,Personagem,Personagem,Personagem,2,false
+262175,vivian darkbloom,vivian darkbloom,vivian darkbloom,Personagem,Personagem,Personagem,2,false
+263725,yagami light,yagami light,yagami light,Personagem,Personagem,Personagem,2,false
+152266,adelina abranches,adelina abranches,adelina abranches,Pessoa > Artista,Pessoa,Person > Artist,2,false
+41348,adílio,adílio,adilio,Pessoa > Esporte,Pessoa,Person > Sport,1,false
+153629,agripa póstumo,agripa póstumo,agripa postumo,Pessoa > Rei,Pessoa,Person > Reis,2,false
+154292,alberto rodríguez,alberto rodríguez,alberto rodriguez,Pessoa > Atleta,Pessoa,Person > Athlete,2,false
+155854,aly khan,aly khan,aly khan,Rei,Pessoa,Reis,2,false
+77274,angus t. jones,angus t. jones,angus t. jones,Pessoa > Artista,Pessoa,Person > Artist,3,false
+158018,antonio almir bié da silva,antonio almir bié da silva,antonio almir bie da silva,Pessoa > Político,Pessoa,Person > Politician,5,false
+158194,antónio cardoso e cunha,antónio cardoso e cunha,antonio cardoso e cunha,Pessoa > Político,Pessoa,Person > Politician,4,false
+169281,bret michaels,bret michaels,bret michaels,Pessoa > Artista,Pessoa,Person > Artist,2,false
+169992,butch walker,butch walker,butch walker,Pessoa > Artista,Pessoa,Person > Artist,2,false
+118199,carla moreno,carla moreno,carla moreno,Pessoa > Atleta,Pessoa,Person > Athlete,2,false
+174102,carolina bonaparte,carolina bonaparte,carolina bonaparte,Pessoa > Rei,Pessoa,Person > Reis,2,false
+119411,cheetah chrome,cheetah chrome,cheetah chrome,Pessoa > Artista,Pessoa,Person > Artist,2,false
+177537,chico adnet,chico adnet,chico adnet,Pessoa > Artista,Pessoa,Person > Artist,2,false
+326596,Crystal Gold,crystal gold,crystal gold,Pessoa > Artista,Pessoa,Person > Artist,2,false
+62077,danny aiello,danny aiello,danny aiello,Pessoa > Artista,Pessoa,Person > Artist,2,false
+328715,David Harvey,david harvey,david harvey,Pessoa > Jogador de futebol,Pessoa,Person > SoccerPlayer,2,false
+22430,deodoro de mendonça,deodoro de mendonça,deodoro de mendonca,Pessoa > Político,Pessoa,Person > Politician,3,false
+123545,earl scruggs,earl scruggs,earl scruggs,Pessoa > Artista,Pessoa,Person > Artist,2,false
+123826,edmar arruda,edmar arruda,edmar arruda,Pessoa > Político,Pessoa,Person > Politician,2,false
+328371,Eduardo Paes,eduardo paes,eduardo paes,Pessoa > Político,Pessoa,Person > Politician,2,false
+326085,Elvis Presley,elvis presley,elvis presley,Pessoa > Artista,Pessoa,Person > Artist,2,false
+268164,emeli sande,emeli sande,emeli sande,Pessoa > Artista,Pessoa,Person > Artist,2,false
+324828,Francisco de Souza,francisco de souza,francisco de souza,Pessoa > Artista,Pessoa,Person > Artist,3,false
+209928,jemerson de jesus nascimento,jemerson de jesus nascimento,jemerson de jesus nascimento,Pessoa > Jogador de futebol,Pessoa,Person > SoccerPlayer,4,false
+131065,johanna larsson,johanna larsson,johanna larsson,Pessoa > Esporte,Pessoa,Person > Sport,2,false
+57586,juliana almeida,juliana almeida,juliana almeida,Pessoa > Artista,Pessoa,Person > Artist,2,false
+214346,konrad cunha dantas,konrad cunha dantas,konrad cunha dantas,Pessoa > Artista,Pessoa,Person > Artist,3,false
+327276,Leopoldo Fróes,leopoldo fróes,leopoldo froes,Pessoa > Artista,Pessoa,Person > Artist,2,false
+327279,Leven Rambin,leven rambin,leven rambin,Pessoa > Artista,Pessoa,Person > Artist,2,false
+57848,lilico,lilico,lilico,Pessoa > Artista,Pessoa,Person > Artist,1,false
+84378,luís barbosa,luís barbosa,luis barbosa,Pessoa > Político,Pessoa,Person > Politician,2,false
+329163,Marcelinho Paraíba,marcelinho paraíba,marcelinho paraiba,Pessoa > Jogador de futebol,Pessoa,Person > SoccerPlayer,2,false
+221274,marina vlady,marina vlady,marina vlady,Pessoa > Artista,Pessoa,Person > Artist,2,false
+32315,matthew fox,matthew fox,matthew fox,Artista,Pessoa,Artist,2,false
+85366,neil finn,neil finn,neil finn,Pessoa > Artista,Pessoa,Person > Artist,2,false
+103815,nicholas tse,nicholas tse,nicholas tse,Artista,Pessoa,Artist,2,false
+230924,olívia hime,olívia hime,olivia hime,Pessoa > Artista,Pessoa,Person > Artist,2,false
+234366,paulo jobim,paulo jobim,paulo jobim,Pessoa > Artista,Pessoa,Person > Artist,2,false
+46205,roberto pessoa,roberto pessoa,roberto pessoa,Pessoa > Político,Pessoa,Person > Politician,2,false
+245530,roger ljung,roger ljung,roger ljung,Pessoa > Jogador de futebol,Pessoa,Person > SoccerPlayer,2,false
+245779,ronaldo da silva souza,ronaldo da silva souza,ronaldo da silva souza,Pessoa > Jogador de futebol,Pessoa,Person > SoccerPlayer,4,false
+49751,rosa maria murtinho,rosa maria murtinho,rosa maria murtinho,Pessoa > Artista > Personagem,Pessoa,Person > Artist > Personagem,3,false
+66010,samuel l. jackson,samuel l. jackson,samuel l. jackson,Pessoa > Artista,Pessoa,Person > Artist,3,false
+145241,steve prefontaine,steve prefontaine,steve prefontaine,Pessoa > Atleta,Pessoa,Person > Athlete,2,false
+254738,sérgio zambiasi,sérgio zambiasi,sergio zambiasi,Pessoa > Político,Pessoa,Person > Politician,2,false
+148398,vito giannotti,vito giannotti,vito giannotti,Pessoa > Escritor,Pessoa,Person > Writer,2,false
+89620,wilson lima,wilson lima,wilson lima,Pessoa > Político,Pessoa,Person > Politician,2,false
+324192,Xande de Pilares,xande de pilares,xande de pilares,Pessoa > Artista,Pessoa,Person > Artist,3,false
+264756,ânderson miguel da silva,ânderson miguel da silva,anderson miguel da silva,Pessoa > Jogador de futebol > Esporte,Pessoa,Person > SoccerPlayer > Sport,4,false
+149520,(mart.),(mart.),(mart.),Planta,Planta,Planta,1,false
+111373,acacia auriculiformis,acacia auriculiformis,acacia auriculiformis,Planta,Planta,Planta,2,false
+151612,acacia riparia,acacia riparia,acacia riparia,Planta,Planta,Planta,2,false
+25175,acapurana,acapurana,acapurana,Planta,Planta,Planta,1,false
+151813,acer circinatum,acer circinatum,acer circinatum,Planta,Planta,Planta,2,false
+153851,aira praecox,aira praecox,aira praecox,Planta,Planta,Planta,2,false
+31641,albizia julibrissin,albizia julibrissin,albizia julibrissin,Planta,Planta,Planta,2,false
+112886,anaphalis,anaphalis,anaphalis,Planta,Planta,Planta,1,false
+330822,Andiroba,andiroba,andiroba,Planta,Planta,Planta,1,false
+330347,Andropogon,andropogon,andropogon,Planta,Planta,Planta,1,false
+112982,andropogon citratus,andropogon citratus,andropogon citratus,Planta,Planta,Planta,2,false
+9472,apocynaceae,apocynaceae,apocynaceae,Planta,Planta,Planta,1,false
+159342,arbutus unedo,arbutus unedo,arbutus unedo,Planta,Planta,Planta,2,false
+330653,Bambu,bambu,bambu,Planta,Planta,Planta,1,false
+92240,bellonia,bellonia,bellonia,Planta,Planta,Planta,1,false
+23256,bragantia,bragantia,bragantia,Planta,Planta,Planta,1,false
+172680,canistrum,canistrum,canistrum,Planta,Planta,Planta,1,false
+330448,Christ,christ,christ,Planta,Planta,Planta,1,false
+24242,cipreste italiano,cipreste italiano,cipreste italiano,Árvore,Planta,Árvore,2,false
+330815,Cotoneaster,cotoneaster,cotoneaster,Planta,Planta,Planta,1,false
+184294,cyrtopodium palmifrons,cyrtopodium palmifrons,cyrtopodium palmifrons,Planta,Planta,Planta,2,false
+186085,dente-de-leão,dente-de-leão,dente-de-leao,Planta,Planta,Planta,1,false
+186954,dimorphandra mollis,dimorphandra mollis,dimorphandra mollis,Planta,Planta,Planta,2,false
+188191,doritaenopsis,doritaenopsis,doritaenopsis,Planta,Planta,Planta,1,false
+36146,encyclia,encyclia,encyclia,Planta,Planta,Planta,1,false
+126397,forestiera,forestiera,forestiera,Planta,Planta,Planta,1,false
+127286,garcinia mangostana,garcinia mangostana,garcinia mangostana,Planta,Planta,Planta,2,false
+71048,gazania,gazania,gazania,Planta,Planta,Planta,1,false
+127970,goshin,goshin,goshin,Árvore,Planta,Árvore,1,false
+128817,hemigraphis,hemigraphis,hemigraphis,Planta,Planta,Planta,1,false
+330912,Jacaranda caroba,jacaranda caroba,jacaranda caroba,Planta,Planta,Planta,2,false
+216354,leucocarpus,leucocarpus,leucocarpus,Planta,Planta,Planta,1,false
+36512,limãozinho,limãozinho,limaozinho,Árvore,Planta,Árvore,1,false
+64360,manduirana,manduirana,manduirana,Árvore,Planta,Árvore,1,false
+330647,Maxillaria,maxillaria,maxillaria,Planta,Planta,Planta,1,false
+330950,Maytenus,maytenus,maytenus,Planta,Planta,Planta,1,false
+135034,menodora,menodora,menodora,Planta,Planta,Planta,1,false
+330560,Morangueiro,morangueiro,morangueiro,Planta,Planta,Planta,1,false
+330827,Moringa,moringa,moringa,Planta,Planta,Planta,1,false
+225763,moringa moringa,moringa moringa,moringa moringa,Árvore,Planta,Árvore,2,false
+330225,Muscari,muscari,muscari,Planta,Planta,Planta,1,false
+227772,nandina domestica,nandina domestica,nandina domestica,Planta,Planta,Planta,2,false
+330247,Palmatória,palmatória,palmatoria,Planta,Planta,Planta,1,false
+234003,patagonula americana,patagonula americana,patagonula americana,Planta,Planta,Planta,2,false
+234857,pelexia,pelexia,pelexia,Planta,Planta,Planta,1,false
+74033,pilriteiro,pilriteiro,pilriteiro,Planta,Planta,Planta,1,false
+140738,prunella vulgaris,prunella vulgaris,prunella vulgaris,Planta,Planta,Planta,2,false
+107773,sempervivum,sempervivum,sempervivum,Planta,Planta,Planta,1,false
+330688,Vitória-régia,vitória-régia,vitoria-regia,Planta,Planta,Planta,1,false
+50350,zamboa,zamboa,zamboa,Planta,Planta,Planta,1,false
+2389,acha,acha,acha,Arma,Política e direito,Arma,1,false
+77061,aliança comercial,aliança comercial,alianca comercial,Direito,Política e direito,Direito,2,false
+276647,Atos constitutivos,atos constitutivos,atos constitutivos,Direito,Política e direito,Direito,2,false
+276888,Ação penal pública,ação penal pública,acao penal publica,Direito,Política e direito,Direito,3,false
+163310,bandeira da califórnia,bandeira da califórnia,bandeira da california,Bandeira,Política e direito,Bandeira,3,false
+270829,Bandeira de Olinda,bandeira de olinda,bandeira de olinda,Bandeira,Política e direito,Bandeira,3,false
+276688,Capacidade jurídica,capacidade jurídica,capacidade juridica,Direito,Política e direito,direito,2,false
+51376,colégio da polícia militar do paraná,colégio da polícia militar do paraná,colegio da policia militar do parana,Militar,Política e direito,Militares,6,false
+182109,constituição do estado de sergipe,constituição do estado de sergipe,constituicao do estado de sergipe,Política,Política e direito,Política,5,false
+276534,Contrafação,contrafação,contrafacao,Direito,Política e direito,direito,1,false
+276651,Crime culposo,crime culposo,crime culposo,Direito,Política e direito,Direito,2,false
+184049,cultura da polônia,cultura da polônia,cultura da polonia,Bandeira,Política e direito,Bandeira,3,false
+276586,Desleixo,desleixo,desleixo,Direito,Política e direito,Direito,1,false
+13618,druida,druida,druida,Política,Política e direito,Política,1,false
+70233,elitismo,elitismo,elitismo,Política,Política e direito,Política,1,false
+276657,Embargo infringente,embargo infringente,embargo infringente,Direito,Política e direito,Direito,2,false
+276924,Espólio,espólio,espolio,Direito,Política e direito,Direito,1,false
+125249,exercício do poder de polícia,exercício do poder de polícia,exercicio do poder de policia,Direito,Política e direito,Direito,5,false
+20173,expurgado,expurgado,expurgado,Política,Política e direito,Política,1,false
+98158,frente ampla,frente ampla,frente ampla,Política,Política e direito,Política,2,false
+18080,gestão tributária,gestão tributária,gestao tributaria,Direito,Política e direito,Direito,2,false
+331263,governador,governador,governador,Política,Política e direito,Política,1,false
+42381,granada de fragmentação,granada de fragmentação,granada de fragmentacao,Arma,Política e direito,Arma,3,false
+285965,Guerra da Crimeia,guerra da crimeia,guerra da crimeia,Guerra,Política e direito,Guerras,3,false
+22505,guerra nuclear,guerra nuclear,guerra nuclear,Arma,Política e direito,Arma,2,false
+203289,gungnir,gungnir,gungnir,Arma,Política e direito,Arma,1,false
+99125,hallyu,hallyu,hallyu,Bandeira,Política e direito,Bandeira,1,false
+99449,hk417,hk417,hk417,Arma,Política e direito,Arma,1,false
+206992,ilha grande de chiloé,ilha grande de chiloé,ilha grande de chiloe,Guerra,Política e direito,Guerras,4,false
+276973,Lei penal,lei penal,lei penal,Direito,Política e direito,Direito,2,false
+270205,Light gun,light gun,light gun,Arma,Política e direito,Arma,2,false
+133495,los chilangos,los chilangos,los chilangos,Bandeira,Política e direito,Bandeira,2,false
+308496,Marinha Mercante Brasileira,marinha mercante brasileira,marinha mercante brasileira,Marinha,Política e direito,Marinha,3,false
+223856,miguel mendonça,miguel mendonça,miguel mendonca,Política,Política e direito,Política,2,false
+73397,ninjato,ninjato,ninjato,Arma,Política e direito,Arma,1,false
+229554,nulificador total,nulificador total,nulificador total,Arma,Política e direito,Arma,2,false
+230673,oficina cultural de uberlândia,oficina cultural de uberlândia,oficina cultural de uberlandia,Bandeira,Política e direito,Bandeira,4,false
+45833,omid,omid,omid,Política,Política e direito,Política,1,false
+234122,patrocínio simultâneo,patrocínio simultâneo,patrocinio simultaneo,Crime,Política e direito,Crime,2,false
+238196,porte oculto,porte oculto,porte oculto,Arma,Política e direito,Arma,2,false
+276746,Prestação de serviços,prestação de serviços,prestacao de servicos,Direito,Política e direito,Direito,3,false
+140524,princípio da lesividade,princípio da lesividade,principio da lesividade,Direito,Política e direito,Direito,3,false
+239185,prisão perpetua,prisão perpetua,prisao perpetua,Direito,Política e direito,Direito,2,false
+36861,recenseamento eleitoral,recenseamento eleitoral,recenseamento eleitoral,Política,Política e direito,Política,2,false
+59645,tall boy,tall boy,tall boy,Arma,Política e direito,Arma,2,false
+310780,Taurus PT 100,taurus pt 100,taurus pt 100,Munição,Política e direito,Munição,3,false
+310793,Taurus PT 938,taurus pt 938,taurus pt 938,Munição,Política e direito,Munição,3,false
+18165,tonfa,tonfa,tonfa,Arma,Política e direito,Arma,1,false
+258574,tratado de neuilly,tratado de neuilly,tratado de neuilly,Tratado,Política e direito,Tratado,3,false
+110011,vestimentas judaicas,vestimentas judaicas,vestimentas judaicas,Bandeira,Política e direito,Bandeira,2,false
+5208,a revolução dos bichos,a revolução dos bichos,a revolucao dos bichos,Produto > Livro,Produto,Produto > Livro,4,false
+151842,acessórios boneca baby alive comida hasbro,acessórios boneca baby alive comida hasbro,acessorios boneca baby alive comida hasbro,Produto > Brinquedos,Produto,Produto > Brinquedos,6,false
+359216,Antonio Puig,antonio puig,antonio puig,Produto > Perfume,Produto,Produto > Perfume,2,false
+337754,Aspirador Pó Para Carro 70w,aspirador pó para carro 70w,aspirador po para carro 70w,Produto > Aspirador,Produto,Produto > Aspirador,5,false
+332449,Berço Doçura Branco Planet,berço doçura branco planet,berco docura branco planet,Produto > Bebês > Berço,Produto,Produto >  Bebês > Berço,4,false
+35790,bicicleta de equilíbrio,bicicleta de equilíbrio,bicicleta de equilibrio,Produto > CoolStuff,Produto,Produto > CoolStuff,3,false
+340685,Boneca Baby Alive Hora de Comer,boneca baby alive hora de comer,boneca baby alive hora de comer,Produto > Brinquedos > Boneco,Produto,Produto > Brinquedos > Boneco,6,false
+117032,bvlgari extrême pour homme masculino eau,bvlgari extrême pour homme masculino eau,bvlgari extreme pour homme masculino eau,"Produto > Beleza, Perfumaria e Saúde",Produto,Produto > Beleza Perfumaria e Saúde,6,false
+341641,Cabos de Aço e Acessórios,cabos de aço e acessórios,cabos de aco e acessorios,Produto > Cabo,Produto,Produto > Cabo,5,false
+341724,Cadeira Estofada,cadeira estofada,cadeira estofada,Produto > Cadeira,Produto,Produto > Cadeira,2,false
+341999,Cadeira Refeição Teddy,cadeira refeição teddy,cadeira refeicao teddy,Produto > Cadeira,Produto,Produto > Cadeira,3,false
+170862,caderneta lisa paros,caderneta lisa paros,caderneta lisa paros,Produto > Papelaria,Produto,Produto > Papelaria,3,false
+342247,Caixa de Som Amplificada Portátil,caixa de som amplificada portátil,caixa de som amplificada portatil,Produto > Caixa de som,Produto,Produto > Caixa de som,5,false
+93530,capa protetora krusell,capa protetora krusell,capa protetora krusell,Produto > Celulares e Smartphones,Produto,Produto > Celulares e Smartphones,3,false
+344857,Chapinha Babyliss Pro,chapinha babyliss pro,chapinha babyliss pro,Produto > Chapinha,Produto,Produto > Chapinha,3,false
+178059,chuteira adidas ace 17.4 fxg,chuteira adidas ace 17.4 fxg,chuteira adidas ace 17.4 fxg,Produto > Produtos Esportivos,Produto,Produto > Produtos Esportivos,5,false
+79834,conjunto de assadeiras tramontina brasil alumínio,conjunto de assadeiras tramontina brasil alumínio,conjunto de assadeiras tramontina brasil aluminio,Produto > Utilidades Domésticas,Produto,Produto > Utilidades Domésticas,6,false
+181664,conjunto de potes herméticos retangulares 4 peças goiaba,conjunto de potes herméticos retangulares 4 peças goiaba,conjunto de potes hermeticos retangulares 4 pecas goiaba,Produto > Utilidades Domésticas,Produto,Produto > Utilidades Domésticas,8,false
+120866,conjunto de talher infantil,conjunto de talher infantil,conjunto de talher infantil,Produto > Utilidades Domésticas,Produto,Produto > Utilidades Domésticas,4,false
+181800,conjunto para biscoito tramontina la pasticceria 8 peças,conjunto para biscoito tramontina la pasticceria 8 peças,conjunto para biscoito tramontina la pasticceria 8 pecas,Produto > Utilidades Domésticas,Produto,Produto > Utilidades Domésticas,8,false
+28924,corneto,corneto,corneto,Produto,Produto,Produto,1,false
+183322,cozinha compacta amora itatiaia,cozinha compacta amora itatiaia,cozinha compacta amora itatiaia,Produto > Móveis,Produto,Produto > Móveis,4,false
+70044,dvd ao cubo,dvd ao cubo,dvd ao cubo,Produto > Música,Produto,Produto > Música,3,false
+39850,escada telescópica de alumínio,escada telescópica de alumínio,escada telescopica de aluminio,Produto > Acessórios para Jardim,Produto,Produto > Acessórios para Jardim,4,false
+192511,esfigmomanometro aneroide premium,esfigmomanometro aneroide premium,esfigmomanometro aneroide premium,"Produto > Beleza, Perfumaria e Saúde",Produto,Produto > Beleza Perfumaria e Saúde,3,false
+192900,essencele profuse serum filler c com 30 gramas,essencele profuse serum filler c com 30 gramas,essencele profuse serum filler c com 30 gramas,"Produto > Beleza, Perfumaria e Saúde",Produto,Produto > Beleza Perfumaria e Saúde,8,false
+347588,Estiletes,estiletes,estiletes,Produto > Ferramenta,Produto,Produto > Ferramenta,1,false
+357098,Gaveteiro De Mesa A4,gaveteiro de mesa a4,gaveteiro de mesa a4,Produto > Móveis > Gaveteiro,Produto,Produto > Móveis > Gaveteiro,4,false
+42340,geladeira / refrigerador electrolux side by,geladeira / refrigerador electrolux side by,geladeira / refrigerador electrolux side by,Produto > Eletrodomésticos,Produto,Produto > Eletrodomésticos,6,false
+352824,Gestão Estratégica da Tecnologia,gestão estratégica da tecnologia,gestao estrategica da tecnologia,Produto > Livro,Produto,Produto > Livro,4,false
+350530,Happy Wheels,happy wheels,happy wheels,Produto > Jogo,Produto,Produto > Jogo,2,false
+361751,Hiper Mass,hiper mass,hiper mass,Produto > Suplementos e Vitaminas,Produto,Produto > Suplementos e Vitaminas,2,false
+210603,jogo de taças para espumante,jogo de taças para espumante,jogo de tacas para espumante,Produto > Utilidades Domésticas,Produto,Produto > Utilidades Domésticas,5,false
+215082,laloa sexy eau de toilette,laloa sexy eau de toilette,laloa sexy eau de toilette,"Produto > Beleza, Perfumaria e Saúde",Produto,Produto > Beleza Perfumaria e Saúde,5,false
+20832,lego harry potter years 1,lego harry potter years 1,lego harry potter years 1,Produto,Produto,Produto,5,false
+133956,mac mini apple,mac mini apple,mac mini apple,Produto > Acessórios de Informática,Produto,Produto > Acessórios de Informática,3,false
+353888,Minha formação,minha formação,minha formacao,Produto > Livro,Produto,Produto > Livro,2,false
+224256,mini roteador wireless 150 mbps wr702n,mini roteador wireless 150 mbps wr702n,mini roteador wireless 150 mbps wr702n,Produto > Acessórios de Informática,Produto,Produto > Acessórios de Informática,6,false
+348607,Refrigerador Consul,refrigerador consul,refrigerador consul,Produto > Geladeira,Produto,Produto > Geladeira,2,false
+141775,relógio feminino speedo analógico fashion,relógio feminino speedo analógico fashion,relogio feminino speedo analogico fashion,Produto > Relógio,Produto,Produto > Relógio,5,false
+360331,Relógio Mormaii Feminino,relógio mormaii feminino,relogio mormaii feminino,Produto > Relógio,Produto,Produto > Relógio,3,false
+31382,sabre de luz eletrônico,sabre de luz eletrônico,sabre de luz eletronico,Produto > Brinquedos,Produto,Produto > Brinquedos,4,false
+354332,Seguindo A,seguindo a,seguindo a,Produto > Livro,Produto,Produto > Livro,2,false
+333697,Switch Hdmi Divisor,switch hdmi divisor,switch hdmi divisor,Produto > Acessórios de Informática > Roteador,Produto,Produto > Acessórios de Informática > Roteador,3,false
+256010,teclado gamer strike 5 mad catz,teclado gamer strike 5 mad catz,teclado gamer strike 5 mad catz,Produto > Jogo,Produto,Produto > Jogo,6,false
+362352,Telefone sem Fio TS40 Preto,telefone sem fio ts40 preto,telefone sem fio ts40 preto,Produto > Telefone,Produto,Produto > Telefone,5,false
+256497,termômetro de banho,termômetro de banho,termometro de banho,Produto > Bebês,Produto,Produto >  Bebês,3,false
+341401,Twozies Blister,twozies blister,twozies blister,Produto > Brinquedos,Produto,Produto > Brinquedos,2,false
+358170,Vela 3D Regina Festas,vela 3d regina festas,vela 3d regina festas,Produto > Papelaria,Produto,Produto > Papelaria,4,false
+363372,Ventilador Mondial Premium,ventilador mondial premium,ventilador mondial premium,Produto > Ventilador,Produto,Produto > Ventilador,3,false
+67264,abellio,abellio,abellio,Deus,Religião e mitologia,Deuses,1,false
+31624,abirão,abirão,abirao,Religião,Religião e mitologia,Religião,1,false
+152641,aegishjalmur,aegishjalmur,aegishjalmur,Mitologia,Religião e mitologia,Mitologia,1,false
+265913,agodo,agodo,agodo,Deus,Religião e mitologia,Deuses,1,false
+112402,algea,algea,algea,Deus,Religião e mitologia,Deuses,1,false
+160050,arquidiocese de florianópolis,arquidiocese de florianópolis,arquidiocese de florianopolis,Religião,Religião e mitologia,Religião,3,false
+13521,ascetismo,ascetismo,ascetismo,Religião,Religião e mitologia,Religião,1,false
+365280,Astar,astar,astar,Religião,Religião e mitologia,Religião,1,false
+161412,ateísmo de estado,ateísmo de estado,ateismo de estado,Religião,Religião e mitologia,Religião,3,false
+365327,Baal,baal,baal,Religião,Religião e mitologia,Religião,1,false
+365094,Basílica menor,basílica menor,basilica menor,Religião,Religião e mitologia,Religião,2,false
+68511,brahmanismo,brahmanismo,brahmanismo,Deus,Religião e mitologia,Deuses,1,false
+173624,caribdis,caribdis,caribdis,Mitologia,Religião e mitologia,Mitologia,1,false
+61473,catecismo romano,catecismo romano,catecismo romano,Religião,Religião e mitologia,Religião,2,false
+37631,cilício,cilício,cilicio,Religião,Religião e mitologia,Religião,1,false
+178770,civitas vaticana,civitas vaticana,civitas vaticana,Religião,Religião e mitologia,Religião,2,false
+26529,cleuza,cleuza,cleuza,Mitologia,Religião e mitologia,Mitologia,1,false
+182360,convenção das igrejas batistas independentes,convenção das igrejas batistas independentes,convencao das igrejas batistas independentes,Religião,Religião e mitologia,Religião,5,false
+187111,diocese de oeiras,diocese de oeiras,diocese de oeiras,Religião,Religião e mitologia,Religião,3,false
+192134,escola de antioquia,escola de antioquia,escola de antioquia,Religião,Religião e mitologia,Religião,3,false
+365414,Esoterismo,esoterismo,esoterismo,Religião,Religião e mitologia,Religião,1,false
+38088,harbard,harbard,harbard,Mitologia,Religião e mitologia,Mitologia,1,false
+364672,HBS,hbs,hbs,Religião,Religião e mitologia,Religião,1,true
+286568,Ieab,ieab,ieab,Igreja,Religião e mitologia,Igreja,1,false
+206731,igreja do senhor santo cristo,igreja do senhor santo cristo,igreja do senhor santo cristo,Religião,Religião e mitologia,Religião,5,false
+364676,Igreja protestante,igreja protestante,igreja protestante,Religião,Religião e mitologia,Religião,2,false
+130789,jejua,jejua,jejua,Mitologia,Religião e mitologia,Mitologia,1,false
+365258,Judaismo,judaismo,judaismo,Religião,Religião e mitologia,Religião,1,false
+83585,julgamento de paris,julgamento de paris,julgamento de paris,Mitologia,Religião e mitologia,Mitologia,3,false
+365458,Junta de Missões Mundiais,junta de missões mundiais,junta de missoes mundiais,Religião,Religião e mitologia,Religião,4,false
+26733,kurupi,kurupi,kurupi,Mitologia,Religião e mitologia,Mitologia,1,false
+365126,Las palmeras,las palmeras,las palmeras,Religião,Religião e mitologia,Religião,2,false
+224706,mitologia cristã,mitologia cristã,mitologia crista,Mitologia,Religião e mitologia,Mitologia,2,false
+73201,mundo material,mundo material,mundo material,Mitologia,Religião e mitologia,Mitologia,2,false
+364865,Mãe da Igreja,mãe da igreja,mae da igreja,Religião,Religião e mitologia,Religião,3,false
+33670,nidhogg,nidhogg,nidhogg,Mitologia,Religião e mitologia,Mitologia,1,false
+228862,niord,niord,niord,Deus,Religião e mitologia,Deuses,1,false
+364805,Nossa Senhora,nossa senhora,nossa senhora,Religião,Religião e mitologia,religião,2,false
+364823,Odoya,odoya,odoya,Religião,Religião e mitologia,Religião,1,false
+231336,ordenação de mulheres,ordenação de mulheres,ordenacao de mulheres,Religião,Religião e mitologia,Religião,3,false
+138354,pacto abraâmico,pacto abraâmico,pacto abraamico,Religião,Religião e mitologia,Religião,2,false
+266051,poseidon,poseidon,poseidon,Religião,Religião e mitologia,Religião,1,false
+238333,posídon,posídon,posidon,Deus,Religião e mitologia,Deuses,1,false
+141362,rapto de europa,rapto de europa,rapto de europa,Mitologia,Religião e mitologia,Mitologia,3,false
+248193,santíssima eucaristia,santíssima eucaristia,santissima eucaristia,Religião,Religião e mitologia,Religião,2,false
+365017,São Pio de Pietrelcina,são pio de pietrelcina,sao pio de pietrelcina,Religião,Religião e mitologia,Religião,4,false
+364844,Tiki,tiki,tiki,Religião,Religião e mitologia,Religião,1,false
+32740,typhon,typhon,typhon,Mitologia,Religião e mitologia,Mitologia,1,false
+364794,Villa Amelia,villa amelia,villa amelia,Religião,Religião e mitologia,Religião,2,false
+50338,yemanja saba,yemanja saba,yemanja saba,Deus,Religião e mitologia,Deuses,2,false
+155057,alfuzosina,alfuzosina,alfuzosina,Medicamento,Saúde,Medicamento,1,false
+158726,aparelho de pressão com fecho em metal,aparelho de pressão com fecho em metal,aparelho de pressao com fecho em metal,Área da Saúde,Saúde,Área da Saúde,7,false
+309316,ASTRA 500,astra 500,astra 500,Medicamento,Saúde,Medicamento,2,false
+278031,Automutilação,automutilação,automutilacao,Doença,Saúde,doença,1,false
+309520,Betaistina,betaistina,betaistina,Medicamento,Saúde,Medicamento,1,false
+6809,bocejar,bocejar,bocejar,Doença,Saúde,doença,1,false
+169204,braçadeira adulto,braçadeira adulto,bracadeira adulto,Área da Saúde,Saúde,Área da Saúde,2,false
+317389,Braços,braços,bracos,Parte do Corpo,Saúde,Parte do Corpo,1,false
+37496,bronquite alérgica,bronquite alérgica,bronquite alergica,Doença,Saúde,Doença,2,false
+94370,chromic acid,chromic acid,chromic acid,Medicamento,Saúde,Medicamento,2,false
+269149,Cocuruto,cocuruto,cocuruto,Anatomia,Saúde,Anatomia,1,false
+269285,Colo uterino,colo uterino,colo uterino,Anatomia,Saúde,Anatomia,2,false
+121852,câncer de cabeça e pescoço,câncer de cabeça e pescoço,cancer de cabeca e pescoco,Doença,Saúde,Doença,5,false
+309828,Danazol,danazol,danazol,Medicamento,Saúde,Medicamento,1,false
+269196,Dedo mínimo,dedo mínimo,dedo minimo,Anatomia,Saúde,Anatomia,2,false
+186212,dermatotilexomania,dermatotilexomania,dermatotilexomania,Doença,Saúde,Doença,1,false
+69871,dietoterapia chinesa,dietoterapia chinesa,dietoterapia chinesa,Medicina,Saúde,Medicina,2,false
+277383,Dispareunia,dispareunia,dispareunia,Doença,Saúde,doença,1,false
+278171,Doença de Crohn,doença de crohn,doenca de crohn,Doença,Saúde,doença,3,false
+278069,Doenças cardíacas,doenças cardíacas,doencas cardiacas,Doença,Saúde,Doença,2,false
+269197,Dor precordial,dor precordial,dor precordial,Anatomia,Saúde,Anatomia,2,false
+271285,Encastoar,encastoar,encastoar,Cirurgia,Saúde,Cirurgia,1,false
+276089,Essure,essure,essure,Contracepção,Saúde,Contracepção,1,false
+18492,fosfato de codeína,fosfato de codeína,fosfato de codeina,Medicamento,Saúde,Medicamento,3,false
+277796,Hepatite b,hepatite b,hepatite b,Doença,Saúde,doença,2,false
+12434,imunoterapia,imunoterapia,imunoterapia,Saúde,Saúde,Saúde,1,false
+277806,Inalação,inalação,inalacao,Doença,Saúde,Doença,1,false
+133924,lúpus sistêmico,lúpus sistêmico,lupus sistemico,Doença,Saúde,Doença,2,false
+26778,maceração,maceração,maceracao,Medicamento,Saúde,Medicamento,1,false
+309997,Malassezia,malassezia,malassezia,Medicamento,Saúde,Medicamento,1,false
+42875,mecônio,mecônio,meconio,Medicina,Saúde,Medicina,1,false
+49079,mixedema,mixedema,mixedema,Doença,Saúde,Doença,1,false
+73250,método contraceptivo,método contraceptivo,metodo contraceptivo,Contracepção,Saúde,Contracepção,2,false
+269039,Nervo isquiático,nervo isquiático,nervo isquiatico,Anatomia,Saúde,Anatomia,2,false
+228920,nitrito de potássio,nitrito de potássio,nitrito de potassio,Medicamento,Saúde,Medicamento,3,false
+12441,parestesia,parestesia,parestesia,Doença,Saúde,doença,1,false
+139517,phostoxin,phostoxin,phostoxin,Medicamento,Saúde,Medicamento,1,false
+236398,pioderma gangrenoso,pioderma gangrenoso,pioderma gangrenoso,Doença,Saúde,Doença,2,false
+310046,Prótese Dentária,prótese dentária,protese dentaria,Medicina,Saúde,Medicina,2,false
+106246,radiofobia,radiofobia,radiofobia,Fobia,Saúde,Fobia,1,false
+309148,Ritonavir,ritonavir,ritonavir,Medicamento,Saúde,Medicamento,1,false
+309660,Serotonina,serotonina,serotonina,Medicamento,Saúde,Medicamento,1,false
+144129,servidor de ficheiros,servidor de ficheiros,servidor de ficheiros,Anatomia,Saúde,Anatomia,3,false
+253546,sulfeto de bismuto,sulfeto de bismuto,sulfeto de bismuto,Medicamento,Saúde,Medicamento,3,false
+254847,síndrome de sensibilidade seletiva do som,síndrome de sensibilidade seletiva do som,sindrome de sensibilidade seletiva do som,Transtorno,Saúde,Transtornos,6,false
+277400,Trombofilia,trombofilia,trombofilia,Doença,Saúde,doença,1,false
+310000,Vancomicina,vancomicina,vancomicina,Medicamento,Saúde,Medicamento,1,false
+66854,varizes esofágicas,varizes esofágicas,varizes esofagicas,Doença,Saúde,Doença,2,false
+30493,von willebrand,von willebrand,von willebrand,Doença,Saúde,Doença,2,false
+269101,Válvulas cardíacas,válvulas cardíacas,valvulas cardiacas,Anatomia,Saúde,Anatomia,2,false
+410974,207PASSION XR S,207passion xr s,207passion xr s,Veículo > Carro,Veículo,Veículo > Carro,3,false
+409835,24.250 CNC 6X2,24.250 cnc 6x2,24.250 cnc 6x2,Veículo > Caminhão,Veículo,Veículo > Caminhão,3,false
+410354,Alfa Romeo Brera,alfa romeo brera,alfa romeo brera,Veículo > Carro,Veículo,Veículo > Carro,3,false
+1587,amv,amv,amv,Veículo > Carro,Veículo,Veículo > Carro,1,true
+60709,at-st,at-st,at-st,Veículo > Carro,Veículo,Veículo > Carro,1,false
+411005,AUDI A4 2.8,audi a4 2.8,audi a4 2.8,Veículo > Carro,Veículo,Veículo > Carro,3,false
+61015,bf 109,bf 109,bf 109,Aviação,Veículo,Aviação,2,false
+411086,BMW 316,bmw 316,bmw 316,Veículo > Carro,Veículo,Veículo > Carro,2,false
+410363,BMW 320I ACTIVE FLEX,bmw 320i active flex,bmw 320i active flex,Veículo > Carro,Veículo,Veículo > Carro,4,false
+7817,bmw k1200r,bmw k1200r,bmw k1200r,Veículo > Moto,Veículo,Veículo > Moto,2,false
+68416,boeing 737-700,boeing 737-700,boeing 737-700,Aviação,Veículo,Aviação,2,false
+78991,carnival legend,carnival legend,carnival legend,Veículo > Navio,Veículo,Veículo > Navio,2,false
+177491,chevrolet lumina apv,chevrolet lumina apv,chevrolet lumina apv,Veículo > Carro,Veículo,Veículo > Carro,3,false
+410652,Chevrolet Omega CD,chevrolet omega cd,chevrolet omega cd,Veículo > Carro,Veículo,Veículo > Carro,3,false
+79540,citroen c4 16glx5p f,citroen c4 16glx5p f,citroen c4 16glx5p f,Veículo > Carro,Veículo,Veículo > Carro,4,false
+79544,citroën jumpy,citroën jumpy,citroen jumpy,Veículo > Carro,Veículo,Veículo > Carro,2,false
+94528,cityclass 70c17,cityclass 70c17,cityclass 70c17,Veículo > Carro,Veículo,Veículo > Carro,2,false
+94822,comil svelto midi,comil svelto midi,comil svelto midi,Veículo > Carro,Veículo,Veículo > Carro,3,false
+410813,CORSA CLASSIC,corsa classic,corsa classic,Veículo > Carro,Veículo,Veículo > Carro,2,false
+410661,Daihatsu Terios,daihatsu terios,daihatsu terios,Veículo > Carro,Veículo,Veículo > Carro,2,false
+189030,dy 125-52,dy 125-52,dy 125-52,Veículo > Carro,Veículo,Veículo > Carro,2,false
+70262,embraer legacy,embraer legacy,embraer legacy,Aviação,Veículo,Aviação,2,false
+196275,fiat 500 lounge air at,fiat 500 lounge air at,fiat 500 lounge air at,Veículo > Carro,Veículo,Veículo > Carro,5,false
+410838,Ford Fiesta,ford fiesta,ford fiesta,Veículo > Carro,Veículo,Veículo > Carro,2,false
+199388,fusion presidencial,fusion presidencial,fusion presidencial,Veículo > Carro,Veículo,Veículo > Carro,2,false
+98754,gol 1.6 copa,gol 1.6 copa,gol 1.6 copa,Veículo > Carro,Veículo,Veículo > Carro,3,false
+63422,honda accord hybrid,honda accord hybrid,honda accord hybrid,Veículo > Carro,Veículo,Veículo > Carro,3,false
+412048,Honda cbr 250,honda cbr 250,honda cbr 250,Veículo > Moto,Veículo,Veículo > Moto,3,false
+19427,jta,jta,jta,Veículo > Carro,Veículo,Veículo > Carro,1,true
+212806,k113 tl 6x2 360,k113 tl 6x2 360,k113 tl 6x2 360,Veículo > Carro,Veículo,Veículo > Carro,4,false
+214276,koenigsegg cc8s,koenigsegg cc8s,koenigsegg cc8s,Veículo > Carro,Veículo,Veículo > Carro,2,false
+28306,lexus is,lexus is,lexus is,Veículo > Carro,Veículo,Veículo > Carro,2,false
+218114,lotus 97t,lotus 97t,lotus 97t,Veículo > Carro,Veículo,Veículo > Carro,2,false
+411560,NX 350 SAHARA,nx 350 sahara,nx 350 sahara,Veículo > Moto,Veículo,Veículo > Moto,3,false
+232922,panzer iv,panzer iv,panzer iv,Veículo,Veículo,Veículo,2,false
+86364,peugeot 207 compact,peugeot 207 compact,peugeot 207 compact,Veículo > Carro,Veículo,Veículo > Carro,3,false
+8092,porsche 991,porsche 991,porsche 991,Veículo > Carro,Veículo,Veículo > Carro,2,false
+24027,rdk,rdk,rdk,Veículo > Carro,Veículo,Veículo > Carro,1,true
+106600,renault 20,renault 20,renault 20,Veículo > Carro,Veículo,Veículo > Carro,2,false
+243379,renault fluence dyn20m,renault fluence dyn20m,renault fluence dyn20m,Veículo > Carro,Veículo,Veículo > Carro,3,false
+38711,renault modus,renault modus,renault modus,Veículo > Carro,Veículo,Veículo > Carro,2,false
+246896,s10 ltz fd4,s10 ltz fd4,s10 ltz fd4,Veículo > Carro,Veículo,Veículo > Carro,3,false
+145641,suzuki dr 800s,suzuki dr 800s,suzuki dr 800s,Veículo > Moto,Veículo,Veículo > Moto,3,false
+409355,Viação Santa Cruz,viação santa cruz,viacao santa cruz,Transporte,Veículo,Transporte,3,false
+410166,VOLVO FH12 380 4X2,volvo fh12 380 4x2,volvo fh12 380 4x2,Veículo > Carro,Veículo,Veículo > Carro,4,false
+410818,Volvo s80,volvo s80,volvo s80,Veículo > Carro,Veículo,Veículo > Carro,2,false
+410916,VOLVO S80 T6,volvo s80 t6,volvo s80 t6,Veículo > Carro,Veículo,Veículo > Carro,3,false
+410780,Volvo XC60,volvo xc60,volvo xc60,Veículo > Carro,Veículo,Veículo > Carro,2,false
+410170,VOYAGE HL MB,voyage hl mb,voyage hl mb,Veículo > Carro,Veículo,Veículo > Carro,3,false
+411640,ZHEJIANG CHOPPER COBRA,zhejiang chopper cobra,zhejiang chopper cobra,Veículo > Moto,Veículo,Veículo > Moto,3,false

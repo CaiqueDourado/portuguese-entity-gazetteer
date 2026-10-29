@@ -1,0 +1,45 @@
+{
+ "busca": "hotel barato em salvador",
+ "entidades": [
+  {
+   "trecho": "hotel",
+   "entidade": {
+    "id": 409466,
+    "entidade": "Hotel",
+    "chave_sem_acento": "hotel",
+    "tipos": [
+     "Turismo"
+    ],
+    "classe": "Local",
+    "tipos_originais": "turismo",
+    "num_palavras": 1
+   }
+  },
+  {
+   "trecho": "salvador",
+   "entidade": {
+    "id": 301268,
+    "entidade": "Salvador",
+    "chave_sem_acento": "salvador",
+    "tipos": [
+     "Local",
+     "Cidade"
+    ],
+    "classe": "Local",
+    "tipos_originais": "Local > City",
+    "num_palavras": 1
+   }
+  }
+ ],
+ "padroes_search_pattern_miner": {
+  "entity_prefix": [
+   "[turismo] barat",
+   "[turismo] barat [local]",
+   "[turismo] barat [cidade]"
+  ],
+  "entity_skipgram": [
+   "[turismo] [local]",
+   "[turismo] [cidade]"
+  ]
+ }
+}
