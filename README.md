@@ -157,6 +157,7 @@ flowchart LR
 
 ## Related
 
+- Article: [Training Stanford NER on Portuguese with a dictionary](https://github.com/CaiqueDourado/articles/blob/main/stanford-ner/README.md): what a model trained from this dictionary learns beyond it.
 - [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner): the algorithms that use this gazetteer (Python and .NET).
 - [google-keywords-dataset](https://github.com/CaiqueDourado/google-keywords-dataset): the 1.73 million search patterns built with it ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset)).
 - [dicionario-portugues](https://github.com/CaiqueDourado/dicionario-portugues): 272 thousand Portuguese words, the common-word side.

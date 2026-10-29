@@ -159,6 +159,7 @@ flowchart LR
 
 ## Relacionados
 
+- Artigo: [Treinando o Stanford NER em português com um dicionário](https://github.com/CaiqueDourado/articles/blob/main/stanford-ner/README.pt-BR.md): o que um modelo treinado com este dicionário aprende além dele.
 - [search-pattern-miner](https://github.com/CaiqueDourado/search-pattern-miner): os algoritmos que usam este dicionário (Python e .NET).
 - [google-keywords-dataset](https://github.com/CaiqueDourado/google-keywords-dataset): os 1,73 milhão de padrões de busca feitos com ele ([Kaggle](https://www.kaggle.com/datasets/caiquedourado/google-keywords-dataset)).
 - [dicionario-portugues](https://github.com/CaiqueDourado/dicionario-portugues): 272 mil palavras do português, o lado das palavras comuns.
